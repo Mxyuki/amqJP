@@ -41,7 +41,7 @@ This file includes anime names with a `98%` or greater resemblance to AMQ names,
 
 This file modifies the AMQ drop-down menu, merging `perfectMatch.json` and `unperfectMatch.json`.
 
-##Script Showcase
+## Script Showcase
 
 https://github.com/Mxyuki/amqJP/assets/86327219/a3801216-dabd-4605-91bf-614d3a04e998
 
