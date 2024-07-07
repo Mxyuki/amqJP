@@ -4,7 +4,7 @@ The AMQ script can be accessed [here](https://raw.githubusercontent.com/Mxyuki/A
 
 Feel free to use anything here to create an improved version, and please credit me if you publish it elsewhere. I may update it occasionally if motivated, but I recommend updating `dropDown.json` periodically if you use this script regularly.
 
-## animeList Folder
+## AnimeList Folder
 
 This folder contains anime names fetched using the ANN API.
 
@@ -15,7 +15,7 @@ This folder contains anime names fetched using the ANN API.
   - `Ō` to `Ou`
   - `ū` to `uu`
 
-## python Folder
+## Python Folder
 
 This folder includes essential Python scripts used:
 
