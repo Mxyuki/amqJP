@@ -2,6 +2,8 @@
 
 The AMQ script can be accessed [here](https://raw.githubusercontent.com/Mxyuki/AMQ-Scripts/main/amqJapaneseDropDown.user.js). All Japanese names are sourced from [ANN](https://www.animenewsnetwork.com/).
 
+Please note that this script may not comprehensively cover all Anime Names. Therefore, I do not recommend using it for anything else than casual games. If you have suggestions for improvement or wish to enhance its functionality, your contributions are welcome and encouraged.
+
 Feel free to use anything here to create an improved version, and please credit me if you publish it elsewhere. I may update it occasionally if motivated, but I recommend updating `dropDown.json` periodically if you use this script regularly.
 
 ## AnimeList Folder
@@ -38,3 +40,8 @@ This file includes anime names with a `98%` or greater resemblance to AMQ names,
 ### dropDown.json
 
 This file modifies the AMQ drop-down menu, merging `perfectMatch.json` and `unperfectMatch.json`.
+
+##Script Showcase
+
+https://github.com/Mxyuki/amqJP/assets/86327219/a3801216-dabd-4605-91bf-614d3a04e998
+
