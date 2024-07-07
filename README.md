@@ -33,7 +33,7 @@ This file lists anime names exactly matching AMQ's main titles.
 
 ### unperfectMatch.json
 
-This file includes anime names with a 98% or greater resemblance to AMQ names, though not exact matches.
+This file includes anime names with a `98%` or greater resemblance to AMQ names, though not exact matches.
 
 ### dropDown.json
 
