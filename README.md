@@ -27,7 +27,7 @@ This folder includes essential Python scripts used:
 
 ### ANNID.json
 
-This JSON file contains all ANNIDs for animes aired as of `7/7/2024`.
+This JSON file contains all ANNIDs for animes aired as of `July 9 2024`.
 
 ### dropDown.json
 
