@@ -35,5 +35,4 @@ This is the file used for the modified AMQ drop-down.
 
 ## Script Showcase
 
-https://github.com/Mxyuki/amqJP/assets/86327219/a3801216-dabd-4605-91bf-614d3a04e998
-
+https://github.com/Mxyuki/amqJP/assets/86327219/7a476847-cec4-4445-9a32-e4cc1dcbf5a7
