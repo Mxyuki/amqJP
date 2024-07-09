@@ -4,11 +4,11 @@ import time
 import xml.etree.ElementTree as ET
 import math
 
-def fetch_anime_titles(start_id, end_id):
+def fetch_anime_titles(anime_ids):
     base_url = "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime="
     titles = []
     
-    for anime_id in range(start_id, end_id + 1):
+    for anime_id in anime_ids:
         try:
             response = requests.get(base_url + str(anime_id))
             if response.status_code == 200:
@@ -17,6 +17,7 @@ def fetch_anime_titles(start_id, end_id):
                 if anime is not None:
                     main_title = anime.get('name')
                     japanese_title = None
+                    english_title = None
                     
                     for info in anime.findall('info'):
                         if info.get('type') == 'Alternative title' and info.get('lang') == 'JA':
@@ -25,8 +26,16 @@ def fetch_anime_titles(start_id, end_id):
                                 japanese_title = title_text
                                 break
                     
+                    for info in anime.findall('info'):
+                        if info.get('type') == 'Alternative title' and info.get('lang') == 'EN':
+                            english_title = info.text.strip()
+                            break
+                    
                     if japanese_title is None:
                         japanese_title = main_title
+                    
+                    if english_title is None:
+                        english_title = main_title
                     
                     aired = False
                     for info in anime.findall('info'):
@@ -38,9 +47,10 @@ def fetch_anime_titles(start_id, end_id):
                         titles.append({
                             "id": anime_id,
                             "main_title": main_title,
-                            "japanese_title": japanese_title
+                            "japanese_title": japanese_title,
+                            "english_title": english_title
                         })
-                        print(f"Fetched ID {anime_id}: {main_title} / {japanese_title} (Aired)")
+                        print(f"Fetched ID {anime_id}: {main_title} / {japanese_title} / {english_title} (Aired)")
                     else:
                         print(f"ID {anime_id}: {main_title} not aired.")
                 else:
@@ -57,7 +67,7 @@ def fetch_anime_titles(start_id, end_id):
             titles = []
     
     if titles:
-        save_titles_to_json(titles, f"animeList{math.ceil(end_id / 1000)}.json")
+        save_titles_to_json(titles, f"animeList{math.ceil(anime_ids[-1] / 1000)}.json")
 
 def contains_kana_or_kanji(text):
     return any('\u3040' <= char <= '\u30FF' or '\u4E00' <= char <= '\u9FFF' for char in text)
@@ -67,7 +77,15 @@ def save_titles_to_json(titles, filename):
         json.dump(titles, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
+    with open('ANNID.json', 'r', encoding='utf-8') as f:
+        annid_data = json.load(f)
+    
+    anime_ids = annid_data['ANNID']
+    
     start_id = 1
     end_id = 33000
-    fetch_anime_titles(start_id, end_id)
+    
+    anime_ids_filtered = [anime_id for anime_id in anime_ids if start_id <= anime_id <= end_id]
+    
+    fetch_anime_titles(anime_ids_filtered)
     print("All anime titles fetched and saved into multiple JSON files.")
