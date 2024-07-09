@@ -36,26 +36,27 @@ def find_best_match(title, normalized_names, threshold):
 
 print("Finding matches...")
 for idx, anime in enumerate(anime_list_clean):
+    normalized_romaji_title = normalize_string(anime['romaji_title'])
     normalized_main_title = normalize_string(anime['main_title'])
     normalized_english_title = normalize_string(anime['english_title'])
     best_match = None
+    best_ratio = 0
 
-    if normalized_main_title in normalized_amq_names:
+    if normalized_romaji_title in normalized_amq_names:
+        best_match = normalized_amq_names[normalized_romaji_title]
+    elif normalized_main_title in normalized_amq_names:
         best_match = normalized_amq_names[normalized_main_title]
     elif normalized_english_title in normalized_amq_names:
         best_match = normalized_amq_names[normalized_english_title]
     else:
-        for threshold in [0.90, 0.80]:
-            best_match, best_ratio = find_best_match(anime['main_title'], normalized_amq_names, threshold)
-            if best_ratio >= threshold:
-                break
+        best_match, best_ratio = find_best_match(anime['romaji_title'], normalized_amq_names, 0.85)
         
-        if best_ratio < 0.80:
-            for threshold in [0.90, 0.80]:
-                best_match, best_ratio = find_best_match(anime['english_title'], normalized_amq_names, threshold)
-                if best_ratio >= threshold:
-                    break
-    
+        if best_ratio < 0.85:
+            best_match, best_ratio = find_best_match(anime['main_title'], normalized_amq_names, 0.85)
+        
+        if best_ratio < 0.85:
+            best_match, best_ratio = find_best_match(anime['english_title'], normalized_amq_names, 0.85)
+
     if best_match:
         matches.append({
             "id": anime['id'],
