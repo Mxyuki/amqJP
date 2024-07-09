@@ -21,25 +21,17 @@ This folder contains anime names fetched using the ANN API.
 
 This folder includes essential Python scripts used:
 
-- **ann.py**: Retrieves all anime names from ANN. (Took 9 hours)
+- **ann.py**: Retrieves all anime names from ANN.
 - **clean.py**: Cleans the complete list of names, removes duplicates, and replaces characters like `ō` and `ū`.
-- **match.py**: Compares ANNID main titles to AMQ titles to ensure accuracy for AMQ.
+- **match.py**: Compares ANNID main titles / japanese title / alt english title to AMQ titles to ensure accuracy for AMQ.
 
 ### ANNID.json
 
 This JSON file contains all ANNIDs for animes aired as of `7/7/2024`.
 
-### perfectMatch.json
-
-This file lists anime names exactly matching AMQ's main titles.
-
-### unperfectMatch.json
-
-This file includes anime names with a `98%` or greater resemblance to AMQ names, though not exact matches.
-
 ### dropDown.json
 
-This file modifies the AMQ drop-down menu, merging `perfectMatch.json` and `unperfectMatch.json`.
+This is the file used for the modified AMQ drop-down.
 
 ## Script Showcase
 
