@@ -18,24 +18,29 @@ def fetch_anime_titles(anime_ids):
                     main_title = anime.get('name')
                     japanese_title = None
                     english_title = None
+                    romaji_title = None
                     
                     for info in anime.findall('info'):
-                        if info.get('type') == 'Alternative title' and info.get('lang') == 'JA':
-                            title_text = info.text.strip()
-                            if contains_kana_or_kanji(title_text):
+                        title_type = info.get('type')
+                        lang = info.get('lang')
+                        title_text = info.text.strip() if info.text else None
+
+                        if title_type == 'Alternative title' and lang == 'JA':
+                            if title_text and contains_kana_or_kanji(title_text):
                                 japanese_title = title_text
-                                break
-                    
-                    for info in anime.findall('info'):
-                        if info.get('type') == 'Alternative title' and info.get('lang') == 'EN':
-                            english_title = info.text.strip()
-                            break
+                            elif title_text and is_romaji(title_text):
+                                romaji_title = title_text
+                        elif title_type == 'Alternative title' and lang == 'EN':
+                            english_title = title_text
                     
                     if japanese_title is None:
                         japanese_title = main_title
                     
                     if english_title is None:
                         english_title = main_title
+                    
+                    if romaji_title is None:
+                        romaji_title = main_title
                     
                     aired = False
                     for info in anime.findall('info'):
@@ -48,9 +53,10 @@ def fetch_anime_titles(anime_ids):
                             "id": anime_id,
                             "main_title": main_title,
                             "japanese_title": japanese_title,
-                            "english_title": english_title
+                            "english_title": english_title,
+                            "romaji_title": romaji_title
                         })
-                        print(f"Fetched ID {anime_id}: {main_title} / {japanese_title} / {english_title} (Aired)")
+                        print(f"Fetched ID {anime_id}: {main_title} / {japanese_title} / {english_title} / {romaji_title} (Aired)")
                     else:
                         print(f"ID {anime_id}: {main_title} not aired.")
                 else:
@@ -71,6 +77,9 @@ def fetch_anime_titles(anime_ids):
 
 def contains_kana_or_kanji(text):
     return any('\u3040' <= char <= '\u30FF' or '\u4E00' <= char <= '\u9FFF' for char in text)
+
+def is_romaji(text):
+    return all('A' <= char <= 'Z' or 'a' <= char <= 'z' or char.isspace() or char in {'-', "'"} for char in text)
 
 def save_titles_to_json(titles, filename):
     with open(filename, 'w', encoding='utf-8') as f:
