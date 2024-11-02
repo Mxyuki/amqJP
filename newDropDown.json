@@ -756,12 +756,6 @@
         "JA": "犬夜叉"
     },
     {
-        "annId": 160,
-        "RO": "Musekinin Kanchou Tylor",
-        "EN": "The Irresponsible Captain Tylor",
-        "JA": "無責任艦長タイラー"
-    },
-    {
         "annId": 161,
         "RO": "Jin-Roh: The Wolf Brigade",
         "EN": "Jin-Roh: The Wolf Brigade",
@@ -1242,18 +1236,6 @@
         "JA": "Black Magic M-66"
     },
     {
-        "annId": 262,
-        "RO": "Dirty Pair",
-        "EN": "Dirty Pair",
-        "JA": "ダーティペア"
-    },
-    {
-        "annId": 263,
-        "RO": "Shinpi no Sekai El Hazard",
-        "EN": "El-Hazard: The Wanderers",
-        "JA": "神秘の世界エルハザード"
-    },
-    {
         "annId": 264,
         "RO": "Gasaraki",
         "EN": "Gasaraki",
@@ -1620,12 +1602,6 @@
         "JA": "吸血姫 美夕"
     },
     {
-        "annId": 337,
-        "RO": "Fushigi Yuugi",
-        "EN": "Fushigi Yuugi",
-        "JA": "ふしぎ遊戯"
-    },
-    {
         "annId": 338,
         "RO": "Uchuu Senkan Yamato",
         "EN": "Star Blazers",
@@ -1648,12 +1624,6 @@
         "RO": "Legend of Crystania: The Chaos Ring",
         "EN": "Legend of Crystania: The Chaos Ring",
         "JA": "レジェンド・オブ・クリスタニア"
-    },
-    {
-        "annId": 345,
-        "RO": "Mahoutsukai Tai!",
-        "EN": "Magic User's Club!",
-        "JA": "魔法使いTai！"
     },
     {
         "annId": 347,
@@ -1950,12 +1920,6 @@
         "JA": "ノワール"
     },
     {
-        "annId": 408,
-        "RO": "Kidou Keisatsu Patlabor",
-        "EN": "Patlabor The Mobile Police",
-        "JA": "機動警察パトレイバー"
-    },
-    {
         "annId": 409,
         "RO": "Kidou Keisatsu Patlabor",
         "EN": "Patlabor The Mobile Police",
@@ -2020,12 +1984,6 @@
         "RO": "Akage no Anne",
         "EN": "Anne of Green Gables",
         "JA": "赤毛のアン"
-    },
-    {
-        "annId": 422,
-        "RO": "Tetsuwan Atom",
-        "EN": "Astro Boy",
-        "JA": "鉄腕アトム"
     },
     {
         "annId": 423,
@@ -2142,12 +2100,6 @@
         "JA": "マシンロボ ぶっちぎりバトルハッカーズ"
     },
     {
-        "annId": 446,
-        "RO": "Magic Knight Rayearth",
-        "EN": "Magic Knight Rayearth",
-        "JA": "魔法騎士[マジックナイト]レイアース"
-    },
-    {
         "annId": 447,
         "RO": "Seikai no Senki",
         "EN": "Banner of the Stars",
@@ -2221,12 +2173,6 @@
     },
     {
         "annId": 459,
-        "RO": "Battle Athletess Daiundoukai",
-        "EN": "Battle Athletes",
-        "JA": "バトルアスリーテス大運動会"
-    },
-    {
-        "annId": 460,
         "RO": "Battle Athletess Daiundoukai",
         "EN": "Battle Athletes",
         "JA": "バトルアスリーテス大運動会"
@@ -2362,12 +2308,6 @@
         "RO": "Mahou no Stage Fancy Lala",
         "EN": "Fancy Lala",
         "JA": "魔法のステージ・ファンシーララ"
-    },
-    {
-        "annId": 492,
-        "RO": "Kimagure Orange★Road",
-        "EN": "Kimagure Orange★Road",
-        "JA": "きまぐれオレンジ☆ロード"
     },
     {
         "annId": 493,
@@ -2718,12 +2658,6 @@
         "JA": "万能文化猫娘"
     },
     {
-        "annId": 557,
-        "RO": "Bannou Bunka Neko-Musume",
-        "EN": "All Purpose Cultural Cat Girl Nuku Nuku",
-        "JA": "万能文化猫娘"
-    },
-    {
         "annId": 558,
         "RO": "Bannou Bunka Neko-Musume DASH!",
         "EN": "All Purpose Cultural Cat Girl Nuku Nuku DASH!",
@@ -2820,22 +2754,10 @@
         "JA": "デビルマン"
     },
     {
-        "annId": 578,
-        "RO": "Devilman",
-        "EN": "Devilman",
-        "JA": "デビルマン"
-    },
-    {
         "annId": 579,
         "RO": "Devilman Lady",
         "EN": "The Devil Lady",
         "JA": "デビルマン レディー"
-    },
-    {
-        "annId": 580,
-        "RO": "Flanders no Inu",
-        "EN": "A Dog of Flanders",
-        "JA": "フランダースの犬"
     },
     {
         "annId": 581,
@@ -3024,12 +2946,6 @@
         "JA": "タッチ"
     },
     {
-        "annId": 620,
-        "RO": "Taiho Shichau zo",
-        "EN": "You're Under Arrest",
-        "JA": "逮捕しちゃうぞ"
-    },
-    {
         "annId": 621,
         "RO": "Taiho Shichau zo Second Season",
         "EN": "You're Under Arrest: Fast & Furious",
@@ -3049,12 +2965,6 @@
     },
     {
         "annId": 624,
-        "RO": "Gravitation",
-        "EN": "Gravitation",
-        "JA": "グラビテーション"
-    },
-    {
-        "annId": 625,
         "RO": "Gravitation",
         "EN": "Gravitation",
         "JA": "グラビテーション"
@@ -3327,12 +3237,6 @@
         "annId": 675,
         "RO": "Kyoushoku Soukou Guyver",
         "EN": "Guyver: Bio-Booster Armor",
-        "JA": "強殖装甲ガイバー"
-    },
-    {
-        "annId": 676,
-        "RO": "Kyoushoku Soukou Guyver",
-        "EN": "The Guyver: Out of Control",
         "JA": "強殖装甲ガイバー"
     },
     {
@@ -3612,12 +3516,6 @@
         "JA": "恐怖のバイオ人間 最終教師"
     },
     {
-        "annId": 728,
-        "RO": "Eigi: Shadow Skill",
-        "EN": "Shadow Skill 2",
-        "JA": "影技～SHADOW SKILL"
-    },
-    {
         "annId": 729,
         "RO": "Shadow Skill: Eigi",
         "EN": "Shadow Skill",
@@ -3709,12 +3607,6 @@
     },
     {
         "annId": 747,
-        "RO": "Uchuu Senshi Baldios",
-        "EN": "Space Warrior Baldios",
-        "JA": "宇宙戦士バルディオス"
-    },
-    {
-        "annId": 748,
         "RO": "Uchuu Senshi Baldios",
         "EN": "Space Warrior Baldios",
         "JA": "宇宙戦士バルディオス"
@@ -4122,12 +4014,6 @@
         "JA": "Happy Lesson"
     },
     {
-        "annId": 835,
-        "RO": "Happy☆Lesson",
-        "EN": "Happy☆Lesson",
-        "JA": "Happy Lesson"
-    },
-    {
         "annId": 836,
         "RO": "One Piece",
         "EN": "One Piece",
@@ -4528,12 +4414,6 @@
         "RO": "Haou Taikei Ryuu Knight",
         "EN": "Lord of Lords Ryu Knight",
         "JA": "覇王大系リューナイト"
-    },
-    {
-        "annId": 909,
-        "RO": "Chibi Maruko-chan",
-        "EN": "Chibi Maruko-chan",
-        "JA": "ちびまる子ちゃん"
     },
     {
         "annId": 910,
@@ -5430,12 +5310,6 @@
         "JA": "らんぽう"
     },
     {
-        "annId": 1093,
-        "RO": "Jarinko Chie",
-        "EN": "Chie the Brat",
-        "JA": "じゃりン子チエ"
-    },
-    {
         "annId": 1094,
         "RO": "Umi ga Kikoeru",
         "EN": "Ocean Waves",
@@ -5628,12 +5502,6 @@
         "JA": "花より男子"
     },
     {
-        "annId": 1137,
-        "RO": "Hana yori Dango",
-        "EN": "Boys Over Flowers",
-        "JA": "花より男子"
-    },
-    {
         "annId": 1138,
         "RO": "Memories Off",
         "EN": "Memories Off",
@@ -5650,12 +5518,6 @@
         "RO": "Jungle wa Itsumo Hare Nochi Guu",
         "EN": "Haré+Guu",
         "JA": "ジャングルはいつもハレのちグゥ"
-    },
-    {
-        "annId": 1141,
-        "RO": "Slam Dunk",
-        "EN": "Slam Dunk",
-        "JA": "スラムダンク"
     },
     {
         "annId": 1142,
@@ -6150,12 +6012,6 @@
         "JA": "カリメロ"
     },
     {
-        "annId": 1235,
-        "RO": "Calimero",
-        "EN": "Calimero",
-        "JA": "カリメロ"
-    },
-    {
         "annId": 1236,
         "RO": "Captain",
         "EN": "Captain",
@@ -6492,12 +6348,6 @@
         "JA": "ドラえもん"
     },
     {
-        "annId": 1318,
-        "RO": "Doraemon",
-        "EN": "Doraemon",
-        "JA": "ドラえもん"
-    },
-    {
         "annId": 1320,
         "RO": "Dororo",
         "EN": "Dororo and Hyakkimaru",
@@ -6571,12 +6421,6 @@
     },
     {
         "annId": 1361,
-        "RO": "Ginga Tetsudou 999",
-        "EN": "Galaxy Express 999",
-        "JA": "銀河鉄道９９９"
-    },
-    {
-        "annId": 1362,
         "RO": "Ginga Tetsudou 999",
         "EN": "Galaxy Express 999",
         "JA": "銀河鉄道９９９"
@@ -7524,12 +7368,6 @@
         "JA": "花の魔法使いマリーベル"
     },
     {
-        "annId": 1660,
-        "RO": "Oraa Guzura Dado",
-        "EN": "Oraa Guzura Dado",
-        "JA": "おらぁグズラだど"
-    },
-    {
         "annId": 1661,
         "RO": "Osomatsu-kun",
         "EN": "Osomatsu-kun",
@@ -8382,12 +8220,6 @@
         "JA": "怪物くん"
     },
     {
-        "annId": 1851,
-        "RO": "Kaibutsu-kun",
-        "EN": "Kaibutsu-kun",
-        "JA": "怪物くん"
-    },
-    {
         "annId": 1852,
         "RO": "Lady Georgie",
         "EN": "Lady Georgie",
@@ -9054,12 +8886,6 @@
         "JA": "わたしとわたし　－ふたりのロッテ－"
     },
     {
-        "annId": 2004,
-        "RO": "Himitsu no Akko-chan",
-        "EN": "Himitsu no Akko-chan",
-        "JA": "ひみつのアッコちゃん"
-    },
-    {
         "annId": 2005,
         "RO": "Himitsu no Akko-chan",
         "EN": "Himitsu no Akko-chan",
@@ -9076,12 +8902,6 @@
         "RO": "Omakase Scrappers",
         "EN": "Omakase Scrappers",
         "JA": "おまかせ　スクラッパーズ　"
-    },
-    {
-        "annId": 2008,
-        "RO": "Perman",
-        "EN": "Perman",
-        "JA": "パーマン"
     },
     {
         "annId": 2009,
@@ -9210,12 +9030,6 @@
         "JA": "GS美神"
     },
     {
-        "annId": 2035,
-        "RO": "Grappler Baki",
-        "EN": "Baki the Grappler",
-        "JA": "グラップラー刃牙"
-    },
-    {
         "annId": 2036,
         "RO": "Grappler Baki: Saidai Tournament-hen",
         "EN": "Baki the Grappler: Saidai Tournament-hen",
@@ -9264,18 +9078,6 @@
         "JA": "ＳＦ新世紀　レンズマン"
     },
     {
-        "annId": 2045,
-        "RO": "Maze☆Bakunetsu Jikuu",
-        "EN": "Maze: The Mega-Burst Space",
-        "JA": "ＭＡＺＥ☆爆熱時空"
-    },
-    {
-        "annId": 2046,
-        "RO": "Onegai☆Teacher",
-        "EN": "Please Teacher!",
-        "JA": "おねがい☆ティーチャー"
-    },
-    {
         "annId": 2049,
         "RO": "Kitty's Paradise",
         "EN": "Kitty's Paradise",
@@ -9294,22 +9096,10 @@
         "JA": "はれときどきぶた"
     },
     {
-        "annId": 2056,
-        "RO": "Akazukin Chacha",
-        "EN": "Lil' Red Riding Hood Cha-Cha",
-        "JA": "赤ずきんチャチャ"
-    },
-    {
         "annId": 2057,
         "RO": "Ariel Deluxe",
         "EN": "Ariel Deluxe",
         "JA": "デラックス エリアル 接触篇 ザ・ビギニング"
-    },
-    {
-        "annId": 2060,
-        "RO": "Ace o Nerae!",
-        "EN": "Aim for the Ace!",
-        "JA": "エースをねらえ！"
     },
     {
         "annId": 2061,
@@ -9532,12 +9322,6 @@
         "RO": "Ikinari Dagon",
         "EN": "Dagon in the Lands of Weeds",
         "JA": "いきなりダゴン"
-    },
-    {
-        "annId": 2113,
-        "RO": "Babel Nisei",
-        "EN": "Babel II",
-        "JA": "バビル２世"
     },
     {
         "annId": 2114,
@@ -9798,12 +9582,6 @@
         "JA": "新造人間キャシャーン"
     },
     {
-        "annId": 2175,
-        "RO": "Manga Nippon Mukashibanashi",
-        "EN": "Manga Nippon Mukashibanashi",
-        "JA": "まんが日本昔ばなし"
-    },
-    {
         "annId": 2177,
         "RO": "Dash! Yonkurou",
         "EN": "Dash! Yonkurou",
@@ -9988,24 +9766,6 @@
         "RO": "Gear Senshi Dendoh",
         "EN": "Gear Fighter Dendoh",
         "JA": "ＧＥＡＲ戦士電童"
-    },
-    {
-        "annId": 2212,
-        "RO": "Gegege no Kitarou",
-        "EN": "Gegege no Kitarou",
-        "JA": "ゲゲゲの鬼太郎"
-    },
-    {
-        "annId": 2213,
-        "RO": "Gegege no Kitarou",
-        "EN": "Gegege no Kitarou",
-        "JA": "ゲゲゲの鬼太郎"
-    },
-    {
-        "annId": 2214,
-        "RO": "Gegege no Kitarou",
-        "EN": "Gegege no Kitarou",
-        "JA": "ゲゲゲの鬼太郎"
     },
     {
         "annId": 2215,
@@ -10266,12 +10026,6 @@
         "JA": "ザ・超女"
     },
     {
-        "annId": 2280,
-        "RO": "Yume de Aetara",
-        "EN": "If I See You in My Dreams",
-        "JA": "夢で逢えたら"
-    },
-    {
         "annId": 2281,
         "RO": "Tobira o Akete",
         "EN": "Tobira o Akete",
@@ -10315,12 +10069,6 @@
     },
     {
         "annId": 2291,
-        "RO": "Green Green",
-        "EN": "Green Green",
-        "JA": "グリーングリーン"
-    },
-    {
-        "annId": 2292,
         "RO": "Green Green",
         "EN": "Green Green",
         "JA": "グリーングリーン"
@@ -10482,12 +10230,6 @@
         "JA": "Soukou Kyuujo Butai Restol"
     },
     {
-        "annId": 2347,
-        "RO": "Hanaukyo Maid-tai",
-        "EN": "Hanaukyo Maid Team",
-        "JA": "花右京メイド隊"
-    },
-    {
         "annId": 2350,
         "RO": "Ganso Bakuretsu Hunter",
         "EN": "Sorcerer Hunters OVA",
@@ -10528,12 +10270,6 @@
         "RO": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen",
         "EN": "Mobile Suit Gundam Wing: Endless Waltz Special Edition",
         "JA": "新機動戦記ガンダムＷ Endless Waltz 特別篇"
-    },
-    {
-        "annId": 2359,
-        "RO": "Megami Kouhosei",
-        "EN": "Pilot Candidate",
-        "JA": "女神候補生"
     },
     {
         "annId": 2361,
@@ -10692,12 +10428,6 @@
         "JA": "最強ロボ　ダイオージャ"
     },
     {
-        "annId": 2462,
-        "RO": "Kindaichi Shounen no Jikenbo",
-        "EN": "The File of Young Kindaichi",
-        "JA": "金田一少年の事件簿"
-    },
-    {
         "annId": 2465,
         "RO": "Transformers: The Headmasters",
         "EN": "Transformers: The Headmasters",
@@ -10756,12 +10486,6 @@
         "RO": "Soratobu Yuureisen",
         "EN": "Flying Phantom Ship",
         "JA": "空飛ぶゆうれい船"
-    },
-    {
-        "annId": 2486,
-        "RO": "Zettai Muteki Raijin-Oh",
-        "EN": "Matchless Raijin-Oh",
-        "JA": "絶対無敵ライジンオー"
     },
     {
         "annId": 2488,
@@ -10836,12 +10560,6 @@
         "JA": "それいけ！アンパンマン ゴミラの星"
     },
     {
-        "annId": 2523,
-        "RO": "Digimon Adventure",
-        "EN": "Digimon Adventure",
-        "JA": "デジモンアドベンチャー"
-    },
-    {
         "annId": 2524,
         "RO": "Digimon Adventure: Bokura no War Game",
         "EN": "Digimon Adventure: Our War Game",
@@ -10858,12 +10576,6 @@
         "RO": "Bouken Yuuki Pluster World",
         "EN": "Bouken Yuuki Pluster World",
         "JA": "冒険遊記プラスターワールド"
-    },
-    {
-        "annId": 2532,
-        "RO": "Appleseed",
-        "EN": "Appleseed",
-        "JA": "アップルシード"
     },
     {
         "annId": 2533,
@@ -11208,12 +10920,6 @@
         "JA": "それいけ！アンパンマン ルビーの願い"
     },
     {
-        "annId": 2660,
-        "RO": "Nurse Witch Komugi-chan Magikarte",
-        "EN": "Nurse Witch Komugi",
-        "JA": "ナースウィッチ小麦ちゃんマジカルて"
-    },
-    {
         "annId": 2662,
         "RO": "Birth",
         "EN": "Birth",
@@ -11494,12 +11200,6 @@
         "RO": "F-Zero Falcon Densetsu",
         "EN": "F-Zero: GP Legend",
         "JA": "F-ZERO ファルコン伝説"
-    },
-    {
-        "annId": 2880,
-        "RO": "Cyborg 009",
-        "EN": "Cyborg 009",
-        "JA": "サイボーグ００９"
     },
     {
         "annId": 2881,
@@ -12046,12 +11746,6 @@
         "RO": "Shadow Skill: Kuruda-ryu Kousatsu-hou no Himitsu",
         "EN": "Shadow Skill 3",
         "JA": "SHADOW SKILL ～クルダ流交殺法の秘密～"
-    },
-    {
-        "annId": 3234,
-        "RO": "Hamelin no Violin Hiki",
-        "EN": "Violinist of Hamelin",
-        "JA": "ハーメルンのバイオリン弾き"
     },
     {
         "annId": 3238,
@@ -12636,18 +12330,6 @@
         "JA": "NEWドリームハンター麗夢 殺戮の夢幻迷宮（ラビリンス）"
     },
     {
-        "annId": 3475,
-        "RO": "Ashita no Joe",
-        "EN": "Tomorrow's Joe",
-        "JA": "あしたのジョー"
-    },
-    {
-        "annId": 3476,
-        "RO": "Ashita no Joe 2",
-        "EN": "Tomorrow's Joe 2",
-        "JA": "あしたのジョー２"
-    },
-    {
         "annId": 3488,
         "RO": "Goku: Midnight Eye",
         "EN": "Goku: Midnight Eye",
@@ -12676,12 +12358,6 @@
         "RO": "Ushio to Tora: Comical Déformer Gekijou",
         "EN": "Ushio & Tora: Comically Deformed Theater",
         "JA": "うしおととら コミカル・デフォルメ劇場"
-    },
-    {
-        "annId": 3521,
-        "RO": "Wolf's Rain",
-        "EN": "Wolf's Rain",
-        "JA": "ウルフズ・レイン"
     },
     {
         "annId": 3523,
@@ -12714,12 +12390,6 @@
         "JA": "アリババと４０匹の盗賊"
     },
     {
-        "annId": 3531,
-        "RO": "Andersen Monogatari",
-        "EN": "The World of Hans Christian Andersen",
-        "JA": "アンデルセン物語"
-    },
-    {
         "annId": 3532,
         "RO": ".hack//Intermezzo",
         "EN": ".hack//Intermezzo",
@@ -12750,12 +12420,6 @@
         "JA": "マジンガーＺ対デビルマン"
     },
     {
-        "annId": 3557,
-        "RO": "Shaman King",
-        "EN": "Shaman King",
-        "JA": "シャーマンキング"
-    },
-    {
         "annId": 3558,
         "RO": "Kaiketsu Zorori",
         "EN": "Kaiketsu Zorori",
@@ -12784,12 +12448,6 @@
         "RO": "Kidou Senshi Gundam Seed Special Edition",
         "EN": "Mobile Suit Gundam Seed Special Edition",
         "JA": "機動戦士ガンダムＳＥＥＤ スペシャルエディション II 遥かなる暁"
-    },
-    {
-        "annId": 3566,
-        "RO": "Stratos 4",
-        "EN": "Stratos 4",
-        "JA": "ストラトス・フォー"
     },
     {
         "annId": 3567,
@@ -13002,18 +12660,6 @@
         "JA": "Dr.スランプ “ほよよ!”宇宙大冒険"
     },
     {
-        "annId": 3639,
-        "RO": "Aa Megami-sama",
-        "EN": "Ah! My Goddess",
-        "JA": "ああっ女神さまっ"
-    },
-    {
-        "annId": 3640,
-        "RO": "Kinnikuman",
-        "EN": "Kinnikuman",
-        "JA": "キン肉マン"
-    },
-    {
         "annId": 3641,
         "RO": "Gantz",
         "EN": "Gantz",
@@ -13036,12 +12682,6 @@
         "RO": "Uchuu Senkan Yamato: Kanketsu-hen",
         "EN": "Final Yamato",
         "JA": "宇宙戦艦ヤマト・完結編"
-    },
-    {
-        "annId": 3646,
-        "RO": "Manga Aesop Monogatari",
-        "EN": "Animated Aesop's Fables",
-        "JA": "まんがイソップ物語"
     },
     {
         "annId": 3647,
@@ -13098,12 +12738,6 @@
         "JA": "ゲゲゲの鬼太郎 最強妖怪軍団！日本上陸!!"
     },
     {
-        "annId": 3666,
-        "RO": "Gegege no Kitarou",
-        "EN": "Gegege no Kitarou",
-        "JA": "ゲゲゲの鬼太郎"
-    },
-    {
         "annId": 3673,
         "RO": "Magical Taruruuto-kun: Sukisuki Takoyaki",
         "EN": "Magical Taruruuto-kun: Sukisuki Takoyaki",
@@ -13128,34 +12762,16 @@
         "JA": "ＰＩＮＫ みずドロボウ あめドロボウ"
     },
     {
-        "annId": 3678,
-        "RO": "Mahoutsukai Sally",
-        "EN": "Mahoutsukai Sally",
-        "JA": "魔法使いサリー"
-    },
-    {
         "annId": 3679,
         "RO": "Akuma-kun: Youkoso Akuma Land e!!",
         "EN": "Devil Boy: Welcome to Devil Land!!",
         "JA": "悪魔くん ようこそ悪魔ランドへ!!"
     },
     {
-        "annId": 3680,
-        "RO": "Akuma-kun",
-        "EN": "Devil Boy",
-        "JA": "悪魔くん"
-    },
-    {
         "annId": 3681,
         "RO": "Himitsu no Akko-chan: Umi da! Obake da!! Natsumatsuri",
         "EN": "Himitsu no Akko-chan: Umi da! Obake da!! Natsumatsuri",
         "JA": "ひみつのアッコちゃん 海だ！おばけだ!!夏祭り"
-    },
-    {
-        "annId": 3682,
-        "RO": "Himitsu no Akko-chan",
-        "EN": "Himitsu no Akko-chan",
-        "JA": "ひみつのアッコちゃん"
     },
     {
         "annId": 3683,
@@ -13182,34 +12798,16 @@
         "JA": "ろくでなしBLUES"
     },
     {
-        "annId": 3690,
-        "RO": "Kingyo Chuuihou!",
-        "EN": "Goldfish Warning!",
-        "JA": "きんぎょ注意報！"
-    },
-    {
         "annId": 3692,
         "RO": "Dr. Slump & Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare",
         "EN": "Dr. Slump & Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare",
         "JA": "Ｄｒ．スランプ アラレちゃん んちゃ！ペンギン村はハレのち晴れ"
     },
     {
-        "annId": 3693,
-        "RO": "Gokinjo Monogatari",
-        "EN": "Neighborhood Story",
-        "JA": "ご近所物語"
-    },
-    {
         "annId": 3694,
         "RO": "Kinnikuman II-sei: Second Generations",
         "EN": "Kinnikuman II-sei: Second Generations",
         "JA": "キン肉マンII世"
-    },
-    {
-        "annId": 3695,
-        "RO": "Jigoku Sensei Nube",
-        "EN": "Hell Teacher Nube",
-        "JA": "地獄先生ぬ～べ～"
     },
     {
         "annId": 3696,
@@ -13338,12 +12936,6 @@
         "JA": "モンスター"
     },
     {
-        "annId": 3751,
-        "RO": "Uchuu Senkan Yamato",
-        "EN": "Space Battleship Yamato",
-        "JA": "宇宙戦艦ヤマト"
-    },
-    {
         "annId": 3752,
         "RO": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
         "EN": "Space Battleship Yamato: The New Voyage",
@@ -13354,12 +12946,6 @@
         "RO": "Rokushin Gattai God Mars: Juunana-sai no Densetsu",
         "EN": "Rokushin Gattai God Mars: Juunana-sai no Densetsu",
         "JA": "六神合体ゴッドマーズ 十七歳の伝説"
-    },
-    {
-        "annId": 3756,
-        "RO": "Rokushin Gattai God Mars",
-        "EN": "God Mars",
-        "JA": "六神合体ゴッドマーズ"
     },
     {
         "annId": 3757,
@@ -13510,18 +13096,6 @@
         "RO": "Eiga Doraemon: Nobita to Kumo no Oukoku",
         "EN": "Doraemon: Nobita and the Kingdom of Clouds",
         "JA": "映画ドラえもん のび太と雲の王国"
-    },
-    {
-        "annId": 3842,
-        "RO": "Sakigake!! Otoko Juku",
-        "EN": "Be a Man! Samurai School",
-        "JA": "魁！！男塾"
-    },
-    {
-        "annId": 3843,
-        "RO": "Tatakae!! Ramenman",
-        "EN": "Tatakae!! Ramenman",
-        "JA": "闘将!!拉麵男"
     },
     {
         "annId": 3844,
@@ -13752,12 +13326,6 @@
         "JA": "夏色の砂時計"
     },
     {
-        "annId": 3979,
-        "RO": "Wind: A Breath of Heart",
-        "EN": "Wind: A Breath of Heart",
-        "JA": "ウインド ア ブレス オブ ハート"
-    },
-    {
         "annId": 3990,
         "RO": "Eiga Doraemon: Nobita no Wan-Nyan Jikuuden",
         "EN": "Doraemon: Nobita's Wan-Nyan Spacetime Odyssey",
@@ -13840,12 +13408,6 @@
         "RO": "Yankee Reppu-tai",
         "EN": "Yankee Reppu-tai",
         "JA": "ヤンキー烈風隊"
-    },
-    {
-        "annId": 4089,
-        "RO": "Jigoku Sensei Nube",
-        "EN": "Hell Teacher Nube",
-        "JA": "地獄先生ぬ～べ～"
     },
     {
         "annId": 4093,
@@ -14190,12 +13752,6 @@
         "JA": "ビューティフル ジョー"
     },
     {
-        "annId": 4328,
-        "RO": "Mouretsu Atarou",
-        "EN": "Mouretsu Atarou",
-        "JA": "もーれつア太郎"
-    },
-    {
         "annId": 4341,
         "RO": "Makyou Gaiden Le Deus",
         "EN": "Ladius",
@@ -14284,12 +13840,6 @@
         "RO": "BECK: Mongolian Chop Squad",
         "EN": "BECK: Mongolian Chop Squad",
         "JA": "ベック"
-    },
-    {
-        "annId": 4408,
-        "RO": "Black Jack",
-        "EN": "Black Jack",
-        "JA": "ブラック・ジャック"
     },
     {
         "annId": 4414,
@@ -14820,12 +14370,6 @@
         "JA": "ふたりはプリキュア ー マックスハート"
     },
     {
-        "annId": 4752,
-        "RO": "Futari wa Precure Max Heart",
-        "EN": "PreCure Max Heart",
-        "JA": "ふたりはプリキュア ー マックスハート"
-    },
-    {
         "annId": 4757,
         "RO": "Baby★Love",
         "EN": "Baby★Love",
@@ -14940,12 +14484,6 @@
         "JA": "こいこい7"
     },
     {
-        "annId": 4872,
-        "RO": "Otogi Juushi Akazukin",
-        "EN": "Fairy Musketeers",
-        "JA": "おとぎ銃士 赤ずきん"
-    },
-    {
         "annId": 4873,
         "RO": "Brave Story",
         "EN": "Brave Story",
@@ -15054,12 +14592,6 @@
         "JA": "Nineteen19"
     },
     {
-        "annId": 4941,
-        "RO": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
-        "EN": "New Legend of the Heroes of the Warring Nations: The Ten Sanada Brave Soldiers",
-        "JA": "新釈 戦国英雄伝説 眞田十勇士 The Animation"
-    },
-    {
         "annId": 4950,
         "RO": "Eiga Atashin'chi",
         "EN": "Eiga Atashin'chi",
@@ -15094,18 +14626,6 @@
         "RO": "Karas",
         "EN": "Karas",
         "JA": "鴉 -KARAS-"
-    },
-    {
-        "annId": 5013,
-        "RO": "Uta∽Kata",
-        "EN": "Utakata",
-        "JA": "うた∽かた"
-    },
-    {
-        "annId": 5023,
-        "RO": "Glass no Kamen",
-        "EN": "Glass Mask",
-        "JA": "ガラスの仮面"
     },
     {
         "annId": 5025,
@@ -15412,12 +14932,6 @@
         "RO": "Haru o Daiteita",
         "EN": "Embracing Love: Cherished Spring",
         "JA": "春を抱いていた"
-    },
-    {
-        "annId": 5224,
-        "RO": "Kyoushoku Soukou Guyver",
-        "EN": "Guyver: Bio-Booster Armor",
-        "JA": "強殖装甲ガイバー"
     },
     {
         "annId": 5243,
@@ -16284,12 +15798,6 @@
         "JA": "きらりん☆レボリューション"
     },
     {
-        "annId": 6189,
-        "RO": "Mahoujin Guruguru",
-        "EN": "Magical Circle Guru Guru",
-        "JA": "魔法陣グルグル"
-    },
-    {
         "annId": 6191,
         "RO": "Mahou Shoujo Tai Arusu: The Adventure",
         "EN": "Tweeny Witches The Adventures",
@@ -16390,12 +15898,6 @@
         "RO": "Tokyo Tribe 2",
         "EN": "Tokyo Tribe 2",
         "JA": "Mad House Tokyo Tribe 2 page"
-    },
-    {
-        "annId": 6236,
-        "RO": "Gintama",
-        "EN": "Gintama",
-        "JA": "銀魂"
     },
     {
         "annId": 6237,
@@ -16746,12 +16248,6 @@
         "JA": "蜜×蜜ドロップス"
     },
     {
-        "annId": 6381,
-        "RO": "Juusenki L-Gaim",
-        "EN": "Heavy Metal L-Gaim",
-        "JA": "重戦機エルガイム"
-    },
-    {
         "annId": 6382,
         "RO": "ProjectBLUE Chikyuu SOS",
         "EN": "Project Blue Earth SOS",
@@ -16816,12 +16312,6 @@
         "RO": "Suzumiya Haruhi no Yuuutsu",
         "EN": "The Melancholy of Haruhi Suzumiya",
         "JA": "涼宮ハルヒの憂鬱"
-    },
-    {
-        "annId": 6431,
-        "RO": "Kanon",
-        "EN": "Kanon",
-        "JA": "カノン"
     },
     {
         "annId": 6436,
@@ -17002,12 +16492,6 @@
         "RO": "Le Chevalier D'Eon",
         "EN": "Le Chevalier D'Eon",
         "JA": "シュヴァリエ 〜Le Chevalier D'Eon〜"
-    },
-    {
-        "annId": 6541,
-        "RO": "Youkai Ningen Bem",
-        "EN": "Humanoid Monster Bem",
-        "JA": "妖怪人間ベム"
     },
     {
         "annId": 6544,
@@ -17284,12 +16768,6 @@
         "RO": "Tengen Toppa Gurren Lagann",
         "EN": "Gurren Lagann",
         "JA": "天元突破グレンラガン"
-    },
-    {
-        "annId": 6700,
-        "RO": "Kashimashi: Girl Meets Girl",
-        "EN": "Kashimashi: Girl Meets Girl",
-        "JA": "かしまし ～ガール・ミーツ・ガール～"
     },
     {
         "annId": 6703,
@@ -17694,12 +17172,6 @@
         "JA": "流星のロックマン"
     },
     {
-        "annId": 6901,
-        "RO": "Harukanaru Toki no Naka de: Hachiyou Shou",
-        "EN": "Harukanaru Toki no Naka de: Hachiyou Shou",
-        "JA": "遙かなる時空の中で ～八葉抄～"
-    },
-    {
         "annId": 6905,
         "RO": "Devil May Cry",
         "EN": "Devil May Cry",
@@ -17710,12 +17182,6 @@
         "RO": "Deltora Quest",
         "EN": "Deltora Quest",
         "JA": "デルトラ・クエスト"
-    },
-    {
-        "annId": 6909,
-        "RO": "Genshiken",
-        "EN": "Genshiken",
-        "JA": "げんしけん"
     },
     {
         "annId": 6912,
@@ -18468,12 +17934,6 @@
         "JA": "星くずパラダイス"
     },
     {
-        "annId": 7273,
-        "RO": "Huckleberry no Bouken",
-        "EN": "The Adventures of Huckleberry Finn",
-        "JA": "ハックルベリィの冒険"
-    },
-    {
         "annId": 7274,
         "RO": "Ippon Bouchou Mantarou",
         "EN": "Ippon Bouchou Mantarou",
@@ -18748,12 +18208,6 @@
         "RO": "Konpeki no Kantai",
         "EN": "Deep Blue Fleet",
         "JA": "紺碧の艦隊"
-    },
-    {
-        "annId": 7415,
-        "RO": "Moeru! Onii-san",
-        "EN": "The Burning Wild Man",
-        "JA": "燃える！お兄さん"
     },
     {
         "annId": 7420,
@@ -19104,12 +18558,6 @@
         "JA": "オシャレ魔女 ラブ and ベリー しあわせのまほう"
     },
     {
-        "annId": 7616,
-        "RO": "Gegege no Kitarou",
-        "EN": "Gegege no Kitarou",
-        "JA": "ゲゲゲの鬼太郎"
-    },
-    {
         "annId": 7617,
         "RO": "Code-E",
         "EN": "Code-E",
@@ -19272,18 +18720,6 @@
         "JA": "崖の上のポニョ"
     },
     {
-        "annId": 7815,
-        "RO": "School Days",
-        "EN": "School Days",
-        "JA": "スクールデイズ"
-    },
-    {
-        "annId": 7816,
-        "RO": "Sky Girls",
-        "EN": "Sky Girls",
-        "JA": "スカイガールズ"
-    },
-    {
         "annId": 7817,
         "RO": "Shinreigari",
         "EN": "Ghost Hound",
@@ -19348,18 +18784,6 @@
         "RO": "A-Girl",
         "EN": "A-Girl",
         "JA": "エー・ガール"
-    },
-    {
-        "annId": 7853,
-        "RO": "Nils no Fushigi na Tabi",
-        "EN": "The Wonderful Adventures of Nils",
-        "JA": "ニルスのふしぎな旅"
-    },
-    {
-        "annId": 7854,
-        "RO": "Ohayou! Spank",
-        "EN": "Ohayou! Spank",
-        "JA": "おはよう！スパンク"
     },
     {
         "annId": 7856,
@@ -19620,12 +19044,6 @@
         "JA": "緑山高校 甲子園編"
     },
     {
-        "annId": 8181,
-        "RO": "Midoriyama Koukou Koushien-hen",
-        "EN": "Midoriyama Koukou Koushien-hen",
-        "JA": "緑山高校 甲子園編"
-    },
-    {
         "annId": 8182,
         "RO": "Shugo Chara!",
         "EN": "Shugo Chara!",
@@ -19717,12 +19135,6 @@
     },
     {
         "annId": 8230,
-        "RO": "Furiten-kun",
-        "EN": "Furiten-kun",
-        "JA": "フリテンくん"
-    },
-    {
-        "annId": 8231,
         "RO": "Furiten-kun",
         "EN": "Furiten-kun",
         "JA": "フリテンくん"
@@ -20068,12 +19480,6 @@
         "RO": "Hatarakids My Ham-gumi",
         "EN": "Master Hamsters",
         "JA": "はたらキッズマイハム組"
-    },
-    {
-        "annId": 8695,
-        "RO": "Hidamari Sketch",
-        "EN": "Hidamari Sketch",
-        "JA": "ひだまりスケッチ"
     },
     {
         "annId": 8719,
@@ -21276,12 +20682,6 @@
         "JA": "あかね色に染まる坂"
     },
     {
-        "annId": 10097,
-        "RO": "Baribari Densetsu",
-        "EN": "Baribari Densetsu",
-        "JA": "バリバリ伝説"
-    },
-    {
         "annId": 10107,
         "RO": "Vampire Knight Guilty",
         "EN": "Vampire Knight Guilty",
@@ -21378,12 +20778,6 @@
         "JA": "北斗の拳 ラオウ外伝 天の覇王"
     },
     {
-        "annId": 10152,
-        "RO": "Offside",
-        "EN": "Offside",
-        "JA": "オフサイド"
-    },
-    {
         "annId": 10153,
         "RO": "Mouryou no Hako",
         "EN": "Box of Goblins",
@@ -21418,12 +20812,6 @@
         "RO": "Black Lagoon: Roberta's Blood Trail",
         "EN": "Black Lagoon: Roberta's Blood Trail",
         "JA": "ブラック・ラグーン"
-    },
-    {
-        "annId": 10167,
-        "RO": "Kyou no 5 no 2",
-        "EN": "Today in Class 5-2",
-        "JA": "今日の5の2"
     },
     {
         "annId": 10168,
@@ -21630,22 +21018,10 @@
         "JA": "スティッチ！"
     },
     {
-        "annId": 10253,
-        "RO": "Koihime†Musou",
-        "EN": "Koihime†Musou",
-        "JA": "恋姫†無双"
-    },
-    {
         "annId": 10254,
         "RO": "Zoku Natsume Yuujinchou",
         "EN": "Natsume's Book of Friends Season 2",
         "JA": "続 夏目友人帳"
-    },
-    {
-        "annId": 10255,
-        "RO": "Soukou Kihei Votoms: Pailsen Files",
-        "EN": "Armored Trooper Votoms: Pailsen Files",
-        "JA": "装甲騎兵ボトムズ ペールゼン・ファイルズ"
     },
     {
         "annId": 10261,
@@ -21918,12 +21294,6 @@
         "JA": "ポケットモンスター ダイヤモンド＆パール 超克の時空へ"
     },
     {
-        "annId": 10556,
-        "RO": "To LOVE-Ru",
-        "EN": "To LOVE-Ru",
-        "JA": "To LOVEる -とらぶる-"
-    },
-    {
         "annId": 10557,
         "RO": "Tayutama: Kiss on My Deity",
         "EN": "Tayutama: Kiss on My Deity",
@@ -22086,22 +21456,10 @@
         "JA": "うみものがたり ～あなたがいてくれたコト～"
     },
     {
-        "annId": 10662,
-        "RO": "Hayate no Gotoku!!",
-        "EN": "Hayate the Combat Butler!!",
-        "JA": "ハヤテのごとく!!"
-    },
-    {
         "annId": 10668,
         "RO": "Souten Kouro",
         "EN": "Beyond the Heavens",
         "JA": "蒼天航路"
-    },
-    {
-        "annId": 10670,
-        "RO": "Nine",
-        "EN": "Nine",
-        "JA": "ナイン"
     },
     {
         "annId": 10672,
@@ -22228,12 +21586,6 @@
         "RO": "Kigurumikku V3",
         "EN": "Kigurumikku V3",
         "JA": "きグルみっく☆V3"
-    },
-    {
-        "annId": 10743,
-        "RO": "Akikan!",
-        "EN": "Akikan!",
-        "JA": "アキカン！"
     },
     {
         "annId": 10744,
@@ -22446,12 +21798,6 @@
         "JA": "ジャングル大帝 -勇気が未来をかえる-"
     },
     {
-        "annId": 10924,
-        "RO": "Suzumiya Haruhi no Yuuutsu",
-        "EN": "The Melancholy of Haruhi Suzumiya",
-        "JA": "涼宮ハルヒの憂鬱"
-    },
-    {
         "annId": 10930,
         "RO": "Gekijouban Macross F: Itsuwari no Utahime",
         "EN": "Macross Frontier: Itsuwari no Utahime",
@@ -22600,12 +21946,6 @@
         "RO": "Darker than Black: Ryuusei no Gemini",
         "EN": "Darker than Black: Gemini of the Meteor",
         "JA": "DARKER THAN BLACK 流星の双子（ジェミニ）-"
-    },
-    {
-        "annId": 10997,
-        "RO": "Tentai Senshi Sunred",
-        "EN": "Tentai Senshi Sunred",
-        "JA": "天体戦士サンレッド"
     },
     {
         "annId": 11017,
@@ -22836,12 +22176,6 @@
         "JA": "怪盗レーニャ"
     },
     {
-        "annId": 11169,
-        "RO": "Kiss × Sis",
-        "EN": "Kiss × Sis",
-        "JA": "キスシス"
-    },
-    {
         "annId": 11174,
         "RO": "Nurarihyon no Mago",
         "EN": "Nura: Rise of the Yokai Clan",
@@ -22968,12 +22302,6 @@
         "JA": "超劇場版ケロロ軍曹 誕生!究極ケロロ 奇跡の時空島であります!!"
     },
     {
-        "annId": 11211,
-        "RO": "Colorful",
-        "EN": "Colorful",
-        "JA": "カラフル"
-    },
-    {
         "annId": 11212,
         "RO": "Karigurashi no Arrietty",
         "EN": "The Secret World of Arrietty",
@@ -23022,12 +22350,6 @@
         "JA": "祝福のカンパネラ"
     },
     {
-        "annId": 11226,
-        "RO": "11eyes",
-        "EN": "11eyes",
-        "JA": "イレブンアイズ"
-    },
-    {
         "annId": 11227,
         "RO": "Ookiku Furikabutte: Natsu no Taikai-hen",
         "EN": "Big Windup! Season 2",
@@ -23038,12 +22360,6 @@
         "RO": "Senkou no Night Raid",
         "EN": "Night Raid 1931",
         "JA": "閃光のナイトレイド"
-    },
-    {
-        "annId": 11229,
-        "RO": "Shin Koihime†Musou",
-        "EN": "Shin Koihime†Musou",
-        "JA": "真・恋姫†無双"
     },
     {
         "annId": 11230,
@@ -23178,12 +22494,6 @@
         "JA": "ストライクウィッチーズ2"
     },
     {
-        "annId": 11316,
-        "RO": "Kamen no Maid Guy",
-        "EN": "Kamen no Maid Guy",
-        "JA": "仮面のメイドガイ"
-    },
-    {
         "annId": 11317,
         "RO": "Neko Ramen",
         "EN": "Neko Ramen",
@@ -23242,12 +22552,6 @@
         "RO": "Dragon Ball: Goku no Koutsuu Anzen",
         "EN": "Dragon Ball: Goku no Koutsuu Anzen",
         "JA": "ドラゴンボール 悟空の交通安全"
-    },
-    {
-        "annId": 11350,
-        "RO": "Eve no Jikan",
-        "EN": "Time of Eve",
-        "JA": "イヴの時間"
     },
     {
         "annId": 11363,
@@ -23472,12 +22776,6 @@
         "JA": "宇宙少年ソラン"
     },
     {
-        "annId": 11500,
-        "RO": "Captain",
-        "EN": "Captain",
-        "JA": "キャプテン"
-    },
-    {
         "annId": 11501,
         "RO": "UFO Senshi Daiapolon II",
         "EN": "UFO Warrior Dai Apolon 2",
@@ -23488,12 +22786,6 @@
         "RO": "Ginga Patrol PJ",
         "EN": "Once Upon a Time... Space",
         "JA": "銀河パトロールＰＪ"
-    },
-    {
-        "annId": 11506,
-        "RO": "Kyou no 5 no 2",
-        "EN": "Today In Class 5-2",
-        "JA": "今日の5の2"
     },
     {
         "annId": 11509,
@@ -23554,12 +22846,6 @@
         "RO": "Aki Sora: Yume no Naka",
         "EN": "Aki Sora: Yume no Naka",
         "JA": "あきそら~夢の中~"
-    },
-    {
-        "annId": 11546,
-        "RO": "Tono to Issho",
-        "EN": "Tono to Issho",
-        "JA": "殿といっしょ"
     },
     {
         "annId": 11571,
@@ -23832,12 +23118,6 @@
         "JA": "スーパーロボット大戦OG ジ・インスペクター"
     },
     {
-        "annId": 11761,
-        "RO": "Kowarekake no Orgel",
-        "EN": "Kowarekake no Orgel",
-        "JA": "こわれかけのオルゴール"
-    },
-    {
         "annId": 11763,
         "RO": "Cardfight!! Vanguard",
         "EN": "Cardfight!! Vanguard",
@@ -24096,12 +23376,6 @@
         "JA": "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!"
     },
     {
-        "annId": 11951,
-        "RO": "Aa Megami-sama",
-        "EN": "Ah! My Goddess",
-        "JA": "ああっ女神さまっ"
-    },
-    {
         "annId": 11962,
         "RO": "30-sai no Hoken Taiiku",
         "EN": "A Thirty-Year Old's Health and Physical Education",
@@ -24112,12 +23386,6 @@
         "RO": "Eiga K-On!",
         "EN": "K-On!: The Movie",
         "JA": "けいおん！"
-    },
-    {
-        "annId": 11965,
-        "RO": "Asobi ni Iku yo!",
-        "EN": "Cat Planet Cuties",
-        "JA": "あそびにいくヨ！"
     },
     {
         "annId": 11975,
@@ -24264,12 +23532,6 @@
         "JA": "バイオハザード ダムネーション"
     },
     {
-        "annId": 12146,
-        "RO": "Sora no Otoshimono",
-        "EN": "Heaven's Lost Property",
-        "JA": "そらのおとしもの"
-    },
-    {
         "annId": 12147,
         "RO": "Gekijouban Sora no Otoshimono: Tokeijikake no Angeloid",
         "EN": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
@@ -24316,12 +23578,6 @@
         "RO": "Tiger & Bunny",
         "EN": "Tiger & Bunny",
         "JA": "タイガー＆バニー"
-    },
-    {
-        "annId": 12200,
-        "RO": "Shukufuku no Campanella",
-        "EN": "Blessing of the Campanella",
-        "JA": "祝福のカンパネラ"
     },
     {
         "annId": 12210,
@@ -24444,12 +23700,6 @@
         "JA": "遊☆戯☆王ゼアル"
     },
     {
-        "annId": 12306,
-        "RO": "Toriko",
-        "EN": "Toriko",
-        "JA": "トリコ"
-    },
-    {
         "annId": 12307,
         "RO": "Coquelicot-zaka kara",
         "EN": "From Up On Poppy Hill",
@@ -24468,12 +23718,6 @@
         "JA": "バクマン。2"
     },
     {
-        "annId": 12322,
-        "RO": "Fairy Tail",
-        "EN": "Fairy Tail",
-        "JA": "フェアリーテイル"
-    },
-    {
         "annId": 12323,
         "RO": "Koukaku Kidoutai S.A.C. Solid State Society 3D",
         "EN": "Ghost in the Shell: Stand Alone Complex - Solid State Society 3D",
@@ -24484,12 +23728,6 @@
         "RO": "Ring ni Kakero 1: Sekai Taikai-hen",
         "EN": "Ring ni Kakero 1: Sekai Taikai-hen",
         "JA": "リングにかけろ１ 世界大会編"
-    },
-    {
-        "annId": 12333,
-        "RO": "Hen Semi",
-        "EN": "Abnormal Physiology Seminar",
-        "JA": "変ゼミ"
     },
     {
         "annId": 12335,
@@ -24514,12 +23752,6 @@
         "RO": "Fujilog",
         "EN": "Fujilog",
         "JA": "フジログ"
-    },
-    {
-        "annId": 12345,
-        "RO": "Yondemasu yo, Azazel-san.",
-        "EN": "You're Being Summoned, Azazel",
-        "JA": "よんでますよ、アザゼルさん。"
     },
     {
         "annId": 12349,
@@ -24600,12 +23832,6 @@
         "JA": "それいけ!アンパンマン みなみの海をすくえ!"
     },
     {
-        "annId": 12391,
-        "RO": "Seitokai Yakuindomo",
-        "EN": "Seitokai Yakuindomo",
-        "JA": "生徒会役員共"
-    },
-    {
         "annId": 12393,
         "RO": "Sacred Seven",
         "EN": "Sacred Seven",
@@ -24667,12 +23893,6 @@
     },
     {
         "annId": 12422,
-        "RO": "Itsuka Tenma no Kuro Usagi",
-        "EN": "A Dark Rabbit Has Seven Lives",
-        "JA": "いつか天魔の黒ウサギ"
-    },
-    {
-        "annId": 12423,
         "RO": "Itsuka Tenma no Kuro Usagi",
         "EN": "A Dark Rabbit Has Seven Lives",
         "JA": "いつか天魔の黒ウサギ"
@@ -25002,12 +24222,6 @@
         "JA": "R-15 アニメーション公式サイト"
     },
     {
-        "annId": 12896,
-        "RO": "Mirai Nikki",
-        "EN": "The Future Diary",
-        "JA": "未来日記"
-    },
-    {
         "annId": 12917,
         "RO": "Metal Fight Beyblade Baku",
         "EN": "Beyblade: Metal Masters",
@@ -25078,12 +24292,6 @@
         "RO": "Mawaru Penguindrum",
         "EN": "Penguindrum",
         "JA": "輪るピングドラム"
-    },
-    {
-        "annId": 13000,
-        "RO": "Astarotte no Omocha!",
-        "EN": "Astarotte's Toy!",
-        "JA": "アスタロッテのおもちゃ！"
     },
     {
         "annId": 13001,
@@ -25212,12 +24420,6 @@
         "JA": "R-15 @ Kadokawa Anime"
     },
     {
-        "annId": 13249,
-        "RO": "Boku wa Tomodachi ga Sukunai",
-        "EN": "Haganai",
-        "JA": "僕は友達が少ない"
-    },
-    {
         "annId": 13250,
         "RO": "Inu X Boku Secret Service",
         "EN": "Inu X Boku Secret Service",
@@ -25314,18 +24516,6 @@
         "JA": "君のいる町"
     },
     {
-        "annId": 13310,
-        "RO": "Black★Rock Shooter",
-        "EN": "Black★Rock Shooter",
-        "JA": "ブラック★ロックシューター"
-    },
-    {
-        "annId": 13311,
-        "RO": "Hoshizora e Kakaru Hashi",
-        "EN": "A Bridge to the Starry Skies",
-        "JA": "星空へ架かる橋"
-    },
-    {
         "annId": 13312,
         "RO": "Kono Danshi, Uchuujin to Tatakaemasu.",
         "EN": "This Boy Can Fight Aliens!",
@@ -25408,12 +24598,6 @@
         "RO": ".hack//Sekai no Mukou ni",
         "EN": ".hack//The Movie",
         "JA": "ドットハック セカイの向こうに"
-    },
-    {
-        "annId": 13411,
-        "RO": "Kuroshitsuji II",
-        "EN": "Black Butler II",
-        "JA": "黒執事Ⅱ"
     },
     {
         "annId": 13419,
@@ -25624,12 +24808,6 @@
         "RO": "Lupin Sansei: Chi no Kokuin - Eien no Mermaid",
         "EN": "Lupin III: Blood Seal - Eternal Mermaid",
         "JA": "ルパン三世 血の刻印 - 永遠のMermaid -"
-    },
-    {
-        "annId": 13718,
-        "RO": "Shijou Saikyou no Deshi Kenichi",
-        "EN": "Kenichi",
-        "JA": "史上最強の弟子ケンイチ"
     },
     {
         "annId": 13719,
@@ -26118,12 +25296,6 @@
         "JA": "ラブライブ！"
     },
     {
-        "annId": 14072,
-        "RO": "Chibi Maruko-chan",
-        "EN": "Chibi Maruko-chan",
-        "JA": "ちびまる子ちゃん"
-    },
-    {
         "annId": 14078,
         "RO": "Gon",
         "EN": "Gon",
@@ -26152,12 +25324,6 @@
         "RO": "Cardfight!! Vanguard: Asia Circuit-hen",
         "EN": "Cardfight!! Vanguard: Asia Circuit-hen",
         "JA": "カードファイト!! ヴァンガード アジアサーキット編"
-    },
-    {
-        "annId": 14100,
-        "RO": "Upotte!!",
-        "EN": "Upotte!!",
-        "JA": "うぽって!!"
     },
     {
         "annId": 14105,
@@ -26382,22 +25548,10 @@
         "JA": "To Loveる -とらぶる- ダークネス"
     },
     {
-        "annId": 14220,
-        "RO": "Eureka Seven AO",
-        "EN": "Eureka Seven AO",
-        "JA": "エウレカセブンAO"
-    },
-    {
         "annId": 14222,
         "RO": "Busou Shinki: Moon Angel",
         "EN": "Busou Shinki: Moon Angel",
         "JA": "武装神姫 MOON ANGEL"
-    },
-    {
-        "annId": 14223,
-        "RO": "Doraemon",
-        "EN": "Doraemon",
-        "JA": "ドラえもん"
     },
     {
         "annId": 14227,
@@ -26916,12 +26070,6 @@
         "JA": "アムネシア"
     },
     {
-        "annId": 14812,
-        "RO": "Kono Naka ni Hitori, Imouto ga Iru!",
-        "EN": "NAKAIMO: My Little Sister Is Among Them!",
-        "JA": "この中に1人、妹がいる！"
-    },
-    {
         "annId": 14817,
         "RO": "Rakuen Tsuihou: Expelled from Paradise",
         "EN": "Expelled from Paradise",
@@ -27312,12 +26460,6 @@
         "JA": "銀河機攻隊 マジェスティックプリンス"
     },
     {
-        "annId": 14973,
-        "RO": "gdgd Fairies",
-        "EN": "gdgd Fairies",
-        "JA": "gdgd妖精s"
-    },
-    {
         "annId": 14974,
         "RO": "Gekijouban Pocket Monsters: Best Wishes! Shinsoku no Genesect - Mewtwo Kakusei",
         "EN": "Pokémon the Movie: Genesect and the Legend Awakened",
@@ -27394,12 +26536,6 @@
         "RO": "Choujigen Game Neptune The Animation",
         "EN": "Hyperdimension Neptunia",
         "JA": "超次元ゲイム ネプテューヌ The Animation"
-    },
-    {
-        "annId": 15002,
-        "RO": "Kuroko no Basuke",
-        "EN": "Kuroko's Basketball",
-        "JA": "黒子のバスケ"
     },
     {
         "annId": 15003,
@@ -27582,12 +26718,6 @@
         "JA": "ハンター X ハンター: ザ・ラスト・ミッション"
     },
     {
-        "annId": 15113,
-        "RO": "Kingdom",
-        "EN": "Kingdom",
-        "JA": "キングダム"
-    },
-    {
         "annId": 15114,
         "RO": "DD Hokuto no Ken",
         "EN": "DD Fist of the North Star",
@@ -27702,12 +26832,6 @@
         "JA": "スパロウズホテル"
     },
     {
-        "annId": 15154,
-        "RO": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.",
-        "EN": "Anohana: The Flower We Saw That Day",
-        "JA": "あの日見た花の名前を僕達はまだ知らない。"
-    },
-    {
         "annId": 15166,
         "RO": "Boku wa Ou-sama",
         "EN": "Boku wa Ou-sama",
@@ -27766,18 +26890,6 @@
         "RO": "Ketsuekigata-kun!",
         "EN": "Ketsuekigata-kun!",
         "JA": "血液型くん！"
-    },
-    {
-        "annId": 15194,
-        "RO": "Haitai Nanafa",
-        "EN": "Haitai Nanafa",
-        "JA": "はいたい七葉"
-    },
-    {
-        "annId": 15195,
-        "RO": "Kimi no Iru Machi",
-        "EN": "A Town Where You Live",
-        "JA": "君のいる町"
     },
     {
         "annId": 15197,
@@ -28098,12 +27210,6 @@
         "JA": "機動戦士ガンダムAGE MEMORY OF EDEN"
     },
     {
-        "annId": 15346,
-        "RO": "Oz no Mahoutsukai",
-        "EN": "The Wonderful Wizard of Oz",
-        "JA": "オズの魔法使い"
-    },
-    {
         "annId": 15347,
         "RO": "Outbreak Company",
         "EN": "Outbreak Company",
@@ -28140,12 +27246,6 @@
         "JA": "コルボッコロ"
     },
     {
-        "annId": 15377,
-        "RO": "Teekyuu",
-        "EN": "Teekyuu",
-        "JA": "てーきゅう"
-    },
-    {
         "annId": 15378,
         "RO": "Magical☆Star Kanon 100%",
         "EN": "Magical☆Star Kanon 100%",
@@ -28168,12 +27268,6 @@
         "RO": "Sylvanian Families",
         "EN": "Sylvanian Families",
         "JA": "シルバニアファミリー"
-    },
-    {
-        "annId": 15387,
-        "RO": "Hakkenden: Touhou Hakken Ibun",
-        "EN": "Hakkenden: Eight Dogs of the East",
-        "JA": "八犬伝 ―東方八犬異聞―"
     },
     {
         "annId": 15391,
@@ -28264,12 +27358,6 @@
         "RO": "Kyou no Asuka Show",
         "EN": "Kyou no Asuka Show",
         "JA": "今日のあすかショー"
-    },
-    {
-        "annId": 15418,
-        "RO": "Pani Poni Dash!",
-        "EN": "Pani Poni Dash!",
-        "JA": "ぱにぽにだっしゅ！"
     },
     {
         "annId": 15419,
@@ -28410,12 +27498,6 @@
         "JA": "のうりん"
     },
     {
-        "annId": 15509,
-        "RO": "Kyousougiga",
-        "EN": "Kyousougiga",
-        "JA": "京騒戯画"
-    },
-    {
         "annId": 15510,
         "RO": "Wake Up, Girls!",
         "EN": "Wake Up, Girls!",
@@ -28450,12 +27532,6 @@
         "RO": "Saikyou Ginga Ultimate Zero: Battle Spirits",
         "EN": "Saikyou Ginga Ultimate Zero: Battle Spirits",
         "JA": "最強銀河 究極(アルティメット)ゼロ～バトルスピリッツ～"
-    },
-    {
-        "annId": 15523,
-        "RO": "Yuri Seijin Naoko-san",
-        "EN": "Yuri Seijin Naoko-san",
-        "JA": "百合星人ナオコサン"
     },
     {
         "annId": 15524,
@@ -28590,18 +27666,6 @@
         "JA": "鬼灯の冷徹"
     },
     {
-        "annId": 15582,
-        "RO": "Teekyuu",
-        "EN": "Teekyuu",
-        "JA": "てーきゅう"
-    },
-    {
-        "annId": 15583,
-        "RO": "Kakumeiki Valvrave",
-        "EN": "Valvrave the Liberator",
-        "JA": "革命機ヴァルヴレイヴ"
-    },
-    {
         "annId": 15585,
         "RO": "Noragami",
         "EN": "Noragami",
@@ -28690,12 +27754,6 @@
         "RO": "Pikachu Koori no Daibouken",
         "EN": "Pikachu's Ice Adventure",
         "JA": "ピカチュウ 氷の大冒険"
-    },
-    {
-        "annId": 15635,
-        "RO": "Fate/kaleid liner Prisma☆Illya",
-        "EN": "Fate/kaleid liner Prisma☆Illya",
-        "JA": "Fate/kaleid liner プリズマ☆イリヤ"
     },
     {
         "annId": 15658,
@@ -29196,12 +28254,6 @@
         "JA": "ぷちます！！プチプチ・アイドルマスター"
     },
     {
-        "annId": 15799,
-        "RO": "Fairy Tail",
-        "EN": "Fairy Tail",
-        "JA": "フェアリーテイル"
-    },
-    {
         "annId": 15800,
         "RO": "Mahou Shoujo Taisen",
         "EN": "Magica Wars",
@@ -29290,12 +28342,6 @@
         "RO": "Kamigami no Asobi",
         "EN": "Kamigami no Asobi",
         "JA": "神々の悪戯 ~Ludere deorum~"
-    },
-    {
-        "annId": 15837,
-        "RO": "Noragami",
-        "EN": "Noragami",
-        "JA": "ノラガミ"
     },
     {
         "annId": 15839,
@@ -29880,12 +28926,6 @@
         "JA": "甘城ブリリアントパーク"
     },
     {
-        "annId": 16134,
-        "RO": "Log Horizon",
-        "EN": "Log Horizon",
-        "JA": "ログ・ホライズン"
-    },
-    {
         "annId": 16135,
         "RO": "Gundam Build Fighters Try",
         "EN": "Gundam Build Fighters Try",
@@ -29964,12 +29004,6 @@
         "JA": "暁のヨナ"
     },
     {
-        "annId": 16156,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
-    },
-    {
         "annId": 16158,
         "RO": "Ookami Shoujo to Kuro Ouji",
         "EN": "Wolf Girl & Black Prince",
@@ -29980,12 +29014,6 @@
         "RO": "Appleseed Alpha",
         "EN": "Appleseed Alpha",
         "JA": "アップルシード アルファ"
-    },
-    {
-        "annId": 16165,
-        "RO": "Aikatsu!",
-        "EN": "Aikatsu!",
-        "JA": "アイカツ！"
     },
     {
         "annId": 16166,
@@ -30072,12 +29100,6 @@
         "JA": "TVアニメ「SHIROBAKO」公式サイト"
     },
     {
-        "annId": 16190,
-        "RO": "Dragon Ball Kai",
-        "EN": "Dragon Ball Z Kai",
-        "JA": "ドラゴンボール改"
-    },
-    {
         "annId": 16191,
         "RO": "Spo-chan Taiketsu!: Youkai Daikessen",
         "EN": "Spo-chan Taiketsu!: Youkai Daikessen",
@@ -30106,12 +29128,6 @@
         "RO": "Uchuu Kyoudai #0",
         "EN": "Space Brothers #0",
         "JA": "宇宙兄弟#0"
-    },
-    {
-        "annId": 16212,
-        "RO": "Futari Ecchi",
-        "EN": "Futari H: The One And Only Step Up Love Story",
-        "JA": "ふたりエッチ"
     },
     {
         "annId": 16232,
@@ -30264,12 +29280,6 @@
         "JA": "山田くんと7人の魔女"
     },
     {
-        "annId": 16280,
-        "RO": "Love Stage!!",
-        "EN": "Love Stage!!",
-        "JA": "LOVE STAGE!! TVアニメ公式サイト"
-    },
-    {
         "annId": 16298,
         "RO": "Mahou Shoujo Lyrical Nanoha ViVid",
         "EN": "Magical Girl Lyrical Nanoha ViVid",
@@ -30306,12 +29316,6 @@
         "JA": "聖剣使いの禁呪詠唱＜ワールドブレイク＞"
     },
     {
-        "annId": 16305,
-        "RO": "Aldnoah.Zero",
-        "EN": "Aldnoah.Zero",
-        "JA": "アルドノア・ゼロ"
-    },
-    {
         "annId": 16306,
         "RO": "Binan Koukou Chikyuu Bouei-bu Love!",
         "EN": "Cute High Earth Defense Club Love!",
@@ -30328,12 +29332,6 @@
         "RO": "Doamayger-D",
         "EN": "Doamayger-D",
         "JA": "ドアマイガーD"
-    },
-    {
-        "annId": 16309,
-        "RO": "Baby Steps",
-        "EN": "Baby Steps",
-        "JA": "ベイビーステップ"
     },
     {
         "annId": 16310,
@@ -30462,12 +29460,6 @@
         "JA": "憑物語"
     },
     {
-        "annId": 16343,
-        "RO": "Kuroko no Basuke",
-        "EN": "Kuroko's Basketball",
-        "JA": "黒子のバスケ"
-    },
-    {
         "annId": 16344,
         "RO": "Shokugeki no Souma",
         "EN": "Food Wars! Shokugeki no Soma",
@@ -30478,18 +29470,6 @@
         "RO": "Yoru no Yatterman",
         "EN": "Yatterman Night",
         "JA": "夜ノヤッターマン"
-    },
-    {
-        "annId": 16346,
-        "RO": "Kamisama Hajimemashita",
-        "EN": "Kamisama Kiss",
-        "JA": "神様はじめました"
-    },
-    {
-        "annId": 16347,
-        "RO": "Lupin Sansei",
-        "EN": "Lupin III",
-        "JA": "ルパン三世"
     },
     {
         "annId": 16357,
@@ -30514,12 +29494,6 @@
         "RO": "God Eater",
         "EN": "God Eater",
         "JA": "ゴッドイーター"
-    },
-    {
-        "annId": 16373,
-        "RO": "Hoozuki no Reitetsu",
-        "EN": "Hozuki's Coolheadedness",
-        "JA": "鬼灯の冷徹"
     },
     {
         "annId": 16375,
@@ -30586,12 +29560,6 @@
         "RO": "Military!",
         "EN": "Military!",
         "JA": "みりたり！"
-    },
-    {
-        "annId": 16484,
-        "RO": "Mushibugyou",
-        "EN": "Mushibugyou",
-        "JA": "ムシブギョー"
     },
     {
         "annId": 16487,
@@ -30738,12 +29706,6 @@
         "JA": "Go! プリンセスプリキュア"
     },
     {
-        "annId": 16591,
-        "RO": "Bishoujo Senshi Sailor Moon Crystal",
-        "EN": "Sailor Moon Crystal",
-        "JA": "美少女戦士セーラームーンCrystal"
-    },
-    {
         "annId": 16592,
         "RO": "Saint Seiya: Soul of Gold",
         "EN": "Saint Seiya: Soul of Gold",
@@ -30796,12 +29758,6 @@
         "RO": "Haiyore! Nyaruko-san F",
         "EN": "Nyaruko: Crawling with Love! F",
         "JA": "這いよれ！ニャル子さんF"
-    },
-    {
-        "annId": 16607,
-        "RO": "Nisekoi",
-        "EN": "Nisekoi",
-        "JA": "ニセコイ"
     },
     {
         "annId": 16614,
@@ -30864,22 +29820,10 @@
         "JA": "チェインクロニクル"
     },
     {
-        "annId": 16639,
-        "RO": "Teekyuu",
-        "EN": "Teekyuu",
-        "JA": "てーきゅう"
-    },
-    {
         "annId": 16640,
         "RO": "Takamiya Nasuno desu!",
         "EN": "Takamiya Nasuno desu!",
         "JA": "高宮なすのです！"
-    },
-    {
-        "annId": 16641,
-        "RO": "Houkago no Pleiades",
-        "EN": "Wish Upon the Pleiades",
-        "JA": "放課後のプレアデス"
     },
     {
         "annId": 16644,
@@ -30996,18 +29940,6 @@
         "JA": "グリザイアの楽園"
     },
     {
-        "annId": 16674,
-        "RO": "PriPara",
-        "EN": "PriPara",
-        "JA": "プリパラ"
-    },
-    {
-        "annId": 16675,
-        "RO": "Sidonia no Kishi",
-        "EN": "Knights of Sidonia",
-        "JA": "シドニアの騎士"
-    },
-    {
         "annId": 16676,
         "RO": "Vampire Holmes",
         "EN": "Vampire Holmes",
@@ -31042,12 +29974,6 @@
         "RO": "Shingeki no Kyojin Season 2",
         "EN": "Attack on Titan Season 2",
         "JA": "進撃の巨人"
-    },
-    {
-        "annId": 16687,
-        "RO": "Arslan Senki",
-        "EN": "The Heroic Legend of Arslan",
-        "JA": "アルスラーン戦記"
     },
     {
         "annId": 16692,
@@ -31194,12 +30120,6 @@
         "JA": "明治東亰恋伽～弦月の小夜曲～"
     },
     {
-        "annId": 16754,
-        "RO": "Ushio to Tora",
-        "EN": "Ushio to Tora",
-        "JA": "うしおととら"
-    },
-    {
         "annId": 16755,
         "RO": "Eiga Crayon Shin-chan: Ora no Hikkoshi Monogatari - Saboten Daishuugeki",
         "EN": "Eiga Crayon Shin-chan: Ora no Hikkoshi Monogatari - Saboten Daishuugeki",
@@ -31332,18 +30252,6 @@
         "JA": "百日紅 ～Miss HOKUSAI～"
     },
     {
-        "annId": 16824,
-        "RO": "Aikatsu!",
-        "EN": "Aikatsu!",
-        "JA": "アイカツ！"
-    },
-    {
-        "annId": 16825,
-        "RO": "Fate/stay night: Unlimited Blade Works",
-        "EN": "Fate/stay night: Unlimited Blade Works",
-        "JA": "「Fate/stay night 」TVアニメ公式サイト"
-    },
-    {
         "annId": 16826,
         "RO": "Daiya no Ace: Second Season",
         "EN": "Ace of the Diamond Second Season",
@@ -31444,12 +30352,6 @@
         "RO": "Gekijouban Date A Live: Mayuri Judgement",
         "EN": "Date A Live The Movie: Mayuri Judgement",
         "JA": "劇場版デート・ア・ライブ 万由里ジャッジメント"
-    },
-    {
-        "annId": 16867,
-        "RO": "Nanatsu no Taizai",
-        "EN": "The Seven Deadly Sins",
-        "JA": "七つの大罪"
     },
     {
         "annId": 16868,
@@ -31582,18 +30484,6 @@
         "RO": "Boruto: Naruto the Movie",
         "EN": "Boruto: Naruto the Movie",
         "JA": "BORUTO -NARUTO THE MOVIE-"
-    },
-    {
-        "annId": 16926,
-        "RO": "Teekyuu",
-        "EN": "Teekyuu",
-        "JA": "てーきゅう"
-    },
-    {
-        "annId": 16937,
-        "RO": "Youkai Watch",
-        "EN": "Yo-kai Watch",
-        "JA": "妖怪ウォッチ"
     },
     {
         "annId": 16943,
@@ -31734,22 +30624,10 @@
         "JA": "弱虫ペダル Re：ROAD"
     },
     {
-        "annId": 17090,
-        "RO": "Break Blade",
-        "EN": "Broken Blade",
-        "JA": "ブレイク ブレイド"
-    },
-    {
         "annId": 17092,
         "RO": "Agukaru",
         "EN": "Agriculture Angel Baraki",
         "JA": "あぐかる"
-    },
-    {
-        "annId": 17119,
-        "RO": "Hayate no Gotoku!",
-        "EN": "Hayate the Combat Butler!",
-        "JA": "ハヤテのごとく！"
     },
     {
         "annId": 17122,
@@ -31762,12 +30640,6 @@
         "RO": "Kono Subarashii Sekai ni Shukufuku o!",
         "EN": "KONOSUBA: God's Blessing on This Wonderful World!",
         "JA": "この素晴らしい世界に祝福を！"
-    },
-    {
-        "annId": 17124,
-        "RO": "Soukyuu no Fafner: Dead Aggressor - Exodus",
-        "EN": "Fafner Exodus",
-        "JA": "蒼穹のファフナー EXODUS"
     },
     {
         "annId": 17125,
@@ -31876,12 +30748,6 @@
         "RO": "Gamba: Gamba to Nakama-tachi",
         "EN": "Air Bound",
         "JA": "GAMBA ガンバと仲間たち"
-    },
-    {
-        "annId": 17232,
-        "RO": "Ushio to Tora",
-        "EN": "Ushio & Tora",
-        "JA": "うしおととら"
     },
     {
         "annId": 17234,
@@ -32124,12 +30990,6 @@
         "JA": "牙狼 –紅蓮ノ月"
     },
     {
-        "annId": 17530,
-        "RO": "Kindaichi Shounen no Jikenbo Returns",
-        "EN": "The File of Young Kindaichi Returns",
-        "JA": "金田一少年の事件簿Ｒ（リターンズ）"
-    },
-    {
         "annId": 17531,
         "RO": "Niji-iro Days",
         "EN": "Rainbow Days",
@@ -32140,12 +31000,6 @@
         "RO": "Joker Game",
         "EN": "Joker Game",
         "JA": "ジョーカー・ゲーム"
-    },
-    {
-        "annId": 17536,
-        "RO": "Kaiketsu Zorori",
-        "EN": "Kaiketsu Zorori",
-        "JA": "かいけつゾロリ"
     },
     {
         "annId": 17538,
@@ -32328,12 +31182,6 @@
         "JA": "ポケットモンスターXY特別編 最強メガシンカ ～Act ⅠⅠⅠ～"
     },
     {
-        "annId": 17656,
-        "RO": "Kyoukai no Rinne",
-        "EN": "RIN-NE",
-        "JA": "境界のRINNE"
-    },
-    {
         "annId": 17666,
         "RO": "Gekijouban Tantei Opera Milky Holmes: Gyakushuu no Milky Holmes",
         "EN": "Gekijouban Tantei Opera Milky Holmes: Gyakushuu no Milky Holmes",
@@ -32502,12 +31350,6 @@
         "JA": "カレバカ～吾輩ノ彼ハ馬鹿でR～"
     },
     {
-        "annId": 17750,
-        "RO": "Big Order",
-        "EN": "Big Order",
-        "JA": "ビッグオーダー"
-    },
-    {
         "annId": 17751,
         "RO": "Shoujo-tachi wa Kouya o Mezasu",
         "EN": "Girls Beyond the Wasteland",
@@ -32548,18 +31390,6 @@
         "RO": "IS: Infinite Stratos 2",
         "EN": "Infinite Stratos 2",
         "JA": "IS &lt;インフィニット・ストラトス&gt; 2 OVA ワールド・パージ編"
-    },
-    {
-        "annId": 17777,
-        "RO": "Akagami no Shirayuki-hime",
-        "EN": "Snow White with the Red Hair",
-        "JA": "赤髪の白雪姫"
-    },
-    {
-        "annId": 17778,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
     },
     {
         "annId": 17782,
@@ -32658,12 +31488,6 @@
         "JA": "田中くんはいつもけだるげ"
     },
     {
-        "annId": 17831,
-        "RO": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
-        "EN": "Gate",
-        "JA": "GATE(ゲート) 自衛隊 彼の地にて、斯く戦えり"
-    },
-    {
         "annId": 17832,
         "RO": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
         "EN": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
@@ -32698,12 +31522,6 @@
         "RO": "Sousei no Onmyouji",
         "EN": "Twin Star Exorcists",
         "JA": "双星の陰陽師"
-    },
-    {
-        "annId": 17891,
-        "RO": "Prison School",
-        "EN": "Prison School",
-        "JA": "監獄学園（プリズンスクール）"
     },
     {
         "annId": 17896,
@@ -32790,12 +31608,6 @@
         "JA": "弱酸性ミリオンアーサー"
     },
     {
-        "annId": 17959,
-        "RO": "Bakuon!!",
-        "EN": "Bakuon!!",
-        "JA": "ばくおん!!"
-    },
-    {
         "annId": 17960,
         "RO": "Sushi Police",
         "EN": "Sushi Police",
@@ -32844,12 +31656,6 @@
         "JA": "美少女戦士セーラームーンCrystal"
     },
     {
-        "annId": 17988,
-        "RO": "One Punch Man",
-        "EN": "One Punch Man",
-        "JA": "ワンパンマン"
-    },
-    {
         "annId": 17989,
         "RO": "One Punch Man",
         "EN": "One Punch Man",
@@ -32866,12 +31672,6 @@
         "RO": "Beyblade Burst",
         "EN": "Beyblade Burst",
         "JA": "ベイブレードバースト"
-    },
-    {
-        "annId": 17994,
-        "RO": "Massugu ni Ikou.",
-        "EN": "Massugu ni Ikou.",
-        "JA": "まっすぐにいこう"
     },
     {
         "annId": 17995,
@@ -32932,12 +31732,6 @@
         "RO": "Masou Gakuen H×H",
         "EN": "Hybrid x Heart Magias Academy Ataraxia",
         "JA": "魔装学園H×H"
-    },
-    {
-        "annId": 18045,
-        "RO": "Bonobono",
-        "EN": "Bonobono",
-        "JA": "ぼのぼの"
     },
     {
         "annId": 18046,
@@ -33006,12 +31800,6 @@
         "JA": "コンクリート・レボルティオ～超人幻想～ THE LAST SONG"
     },
     {
-        "annId": 18068,
-        "RO": "Gakusen Toshi Asterisk",
-        "EN": "The Asterisk War",
-        "JA": "学戦都市アスタリスク"
-    },
-    {
         "annId": 18072,
         "RO": "Tales of Zestiria the X",
         "EN": "Tales of Zestiria the X",
@@ -33070,12 +31858,6 @@
         "RO": "Kagewani: Shou",
         "EN": "Kagewani: II",
         "JA": "影鰐-KAGEWANI-承"
-    },
-    {
-        "annId": 18090,
-        "RO": "PriPara",
-        "EN": "PriPara",
-        "JA": "プリパラ"
     },
     {
         "annId": 18092,
@@ -33366,12 +32148,6 @@
         "JA": "スカーレッドライダーゼクス（ＳＲＸ）"
     },
     {
-        "annId": 18220,
-        "RO": "Bonobono",
-        "EN": "Bonobono",
-        "JA": "ぼのぼの"
-    },
-    {
         "annId": 18226,
         "RO": "Aware! Meisaku-kun",
         "EN": "Aware! Meisaku-kun",
@@ -33564,12 +32340,6 @@
         "JA": "亜人 第3部 -衝戟-"
     },
     {
-        "annId": 18466,
-        "RO": "Ajin",
-        "EN": "Ajin: Demi-Human",
-        "JA": "亜人"
-    },
-    {
         "annId": 18467,
         "RO": "Magic-kyun! Renaissance",
         "EN": "Magic-kyun! Renaissance",
@@ -33592,12 +32362,6 @@
         "RO": "Hitori no Shita: The Outcast",
         "EN": "Hitori no Shita: The Outcast",
         "JA": "一人之下 the outcast"
-    },
-    {
-        "annId": 18485,
-        "RO": "Boku no Hero Academia",
-        "EN": "My Hero Academia",
-        "JA": "僕のヒーローアカデミア"
     },
     {
         "annId": 18486,
@@ -33694,12 +32458,6 @@
         "RO": "Gundam Build Fighters Try Island Wars",
         "EN": "Gundam Build Fighters Try Island Wars",
         "JA": "ガンダムビルドファイターズトライ アイランド・ウォーズ"
-    },
-    {
-        "annId": 18586,
-        "RO": "Kidou Senshi Gundam: Tekketsu no Orphans",
-        "EN": "Mobile Suit Gundam: Iron-Blooded Orphans",
-        "JA": "機動戦士ガンダム 鉄血のオルフェンズ"
     },
     {
         "annId": 18587,
@@ -33966,12 +32724,6 @@
         "JA": "侍霊演武：将星乱"
     },
     {
-        "annId": 18709,
-        "RO": "Bungo Stray Dogs",
-        "EN": "Bungo Stray Dogs",
-        "JA": "文豪ストレイドッグス"
-    },
-    {
         "annId": 18711,
         "RO": "Kin-iro Mosaic: Pretty Days",
         "EN": "KINMOZA! Pretty Days",
@@ -34114,12 +32866,6 @@
         "RO": "Ansatsu Kyoushitsu: 365-nichi no Jikan",
         "EN": "Assassination Classroom the Movie: 365 Days' Time",
         "JA": "劇場版『暗殺教室』365日の時間"
-    },
-    {
-        "annId": 18755,
-        "RO": "Kyoukai no Rinne",
-        "EN": "RIN-NE",
-        "JA": "境界のRINNE"
     },
     {
         "annId": 18756,
@@ -34374,12 +33120,6 @@
         "JA": "傷物語〈Ⅲ冷血篇〉"
     },
     {
-        "annId": 18897,
-        "RO": "Yuyushiki",
-        "EN": "Yuyushiki",
-        "JA": "ゆゆ式"
-    },
-    {
         "annId": 18898,
         "RO": "Digimon Adventure tri. Soushitsu",
         "EN": "Digimon Adventure tri. Chapter 4: Loss",
@@ -34530,12 +33270,6 @@
         "JA": "メイドインアビス"
     },
     {
-        "annId": 18956,
-        "RO": "Nanbaka",
-        "EN": "The Numbers",
-        "JA": "ナンバカ"
-    },
-    {
         "annId": 18957,
         "RO": "Chou Shounen Tanteidan NEO",
         "EN": "Chou Shounen Tanteidan NEO",
@@ -34546,12 +33280,6 @@
         "RO": "Clockwork Planet",
         "EN": "Clockwork Planet",
         "JA": "クロックワーク・プラネット"
-    },
-    {
-        "annId": 18960,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
     },
     {
         "annId": 18962,
@@ -34668,18 +33396,6 @@
         "JA": "名探偵コナン から紅の恋歌（ラブレター）"
     },
     {
-        "annId": 19006,
-        "RO": "Kidou Senshi Gundam Thunderbolt",
-        "EN": "Mobile Suit Gundam Thunderbolt",
-        "JA": "機動戦士ガンダム サンダーボルト"
-    },
-    {
-        "annId": 19008,
-        "RO": "Mahoujin Guruguru",
-        "EN": "Magical Circle Guru Guru",
-        "JA": "魔法陣グルグル"
-    },
-    {
         "annId": 19010,
         "RO": "Frame Arms Girl",
         "EN": "Frame Arms Girl",
@@ -34696,18 +33412,6 @@
         "RO": "Zero kara Hajimeru Mahou no Sho",
         "EN": "Grimoire of Zero",
         "JA": "ゼロから始める魔法の書"
-    },
-    {
-        "annId": 19015,
-        "RO": "Berserk",
-        "EN": "Berserk",
-        "JA": "ベルセルク"
-    },
-    {
-        "annId": 19017,
-        "RO": "Ajin",
-        "EN": "Ajin: Demi-Human",
-        "JA": "亜人"
     },
     {
         "annId": 19018,
@@ -34792,12 +33496,6 @@
         "RO": "100% Pascal-sensei",
         "EN": "100% Teacher Pascal",
         "JA": "100%パスカル先生"
-    },
-    {
-        "annId": 19095,
-        "RO": "Duel Masters",
-        "EN": "Duel Masters",
-        "JA": "デュエル・マスターズ"
     },
     {
         "annId": 19102,
@@ -34890,12 +33588,6 @@
         "JA": "映画プリキュアドリームスターズ！"
     },
     {
-        "annId": 19260,
-        "RO": "Koukou Hoshi Kageki",
-        "EN": "Starmyu",
-        "JA": "スタミュ"
-    },
-    {
         "annId": 19311,
         "RO": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
         "EN": "On a Lustful Night Mingling with a Priest",
@@ -34918,12 +33610,6 @@
         "RO": "Pikaia!!",
         "EN": "Pikaia!!",
         "JA": "ピカイア!!"
-    },
-    {
-        "annId": 19321,
-        "RO": "Haifuri",
-        "EN": "High School Fleet",
-        "JA": "はいふり"
     },
     {
         "annId": 19325,
@@ -35028,12 +33714,6 @@
         "JA": "ナイツ＆マジック"
     },
     {
-        "annId": 19364,
-        "RO": "Hoozuki no Reitetsu",
-        "EN": "Hozuki's Coolheadedness",
-        "JA": "鬼灯の冷徹"
-    },
-    {
         "annId": 19376,
         "RO": "Battle Girl High School",
         "EN": "Battle Girl High School",
@@ -35098,12 +33778,6 @@
         "RO": "Kidou Senshi Gundam Twilight Axis",
         "EN": "Mobile Suit Gundam Twilight Axis",
         "JA": "機動戦士ガンダム Twilight AXIS"
-    },
-    {
-        "annId": 19397,
-        "RO": "Owarimonogatari",
-        "EN": "Owarimonogatari",
-        "JA": "終物語"
     },
     {
         "annId": 19398,
@@ -35406,12 +34080,6 @@
         "JA": "ファントム オブ キル -Zeroからの反逆-"
     },
     {
-        "annId": 19741,
-        "RO": "Osomatsu-san",
-        "EN": "Mr. Osomatsu",
-        "JA": "おそ松さん"
-    },
-    {
         "annId": 19742,
         "RO": "Dance with Devils: Fortuna",
         "EN": "Dance with Devils: Fortuna",
@@ -35464,12 +34132,6 @@
         "RO": "Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa",
         "EN": "Majestic Prince Special",
         "JA": "銀河機攻隊 マジェスティックプリンス: 未来への翼"
-    },
-    {
-        "annId": 19761,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
     },
     {
         "annId": 19762,
@@ -35910,12 +34572,6 @@
         "JA": "Lostorage Conflated WIXOSS: Missing Link"
     },
     {
-        "annId": 20000,
-        "RO": "Love Live! School Idol Project Sunshine!!",
-        "EN": "Love Live! Sunshine!!",
-        "JA": "ラブライブ！サンシャイン!!"
-    },
-    {
         "annId": 20001,
         "RO": "Time Bokan: Gyakushuu no San Akunin",
         "EN": "Time Bokan: The Villains Strike Back",
@@ -36042,12 +34698,6 @@
         "JA": "カードファイト!! ヴァンガードGZ"
     },
     {
-        "annId": 20073,
-        "RO": "Mirai Shounen Conan",
-        "EN": "Conan, the Boy in Future",
-        "JA": "未来少年コナン"
-    },
-    {
         "annId": 20121,
         "RO": "Eiga Youkai Watch: Shadowside - Oni-ou no Fukkatsu",
         "EN": "Eiga Youkai Watch: Shadowside - Oni-ou no Fukkatsu",
@@ -36112,12 +34762,6 @@
         "RO": "Karakai Jouzu no Takagi-san",
         "EN": "Teasing Master Takagi-san",
         "JA": "からかい上手の高木さん"
-    },
-    {
-        "annId": 20177,
-        "RO": "Saiki Kusuo no Psi-nan",
-        "EN": "The Disastrous Life of Saiki K.",
-        "JA": "斉木楠雄のΨ難"
     },
     {
         "annId": 20179,
@@ -36352,18 +34996,6 @@
         "RO": "Juushinki Pandora",
         "EN": "Last Hope",
         "JA": "重神機パンドーラ"
-    },
-    {
-        "annId": 20356,
-        "RO": "Boku no Hero Academia",
-        "EN": "My Hero Academia",
-        "JA": "僕のヒーローアカデミア"
-    },
-    {
-        "annId": 20357,
-        "RO": "Takarajima",
-        "EN": "Treasure Island",
-        "JA": "宝島"
     },
     {
         "annId": 20358,
@@ -36876,12 +35508,6 @@
         "JA": "GODZILLA 決戦機動増殖都市"
     },
     {
-        "annId": 20562,
-        "RO": "Gegege no Kitarou",
-        "EN": "Gegege no Kitarou",
-        "JA": "ゲゲゲの鬼太郎"
-    },
-    {
         "annId": 20563,
         "RO": "Binan Koukou Chikyuu Bouei-bu Happy Kiss!",
         "EN": "Cute High Earth Defense Club Happy Kiss!",
@@ -36972,22 +35598,10 @@
         "JA": "TVアニメ「RELEASE THE SPYCE」公式サイト"
     },
     {
-        "annId": 20596,
-        "RO": "Piano no Mori",
-        "EN": "Forest of Piano",
-        "JA": "ピアノの森"
-    },
-    {
         "annId": 20598,
         "RO": "Uma Musume: Pretty Derby",
         "EN": "Uma Musume: Pretty Derby",
         "JA": "ウマ娘 プリティーダービー"
-    },
-    {
-        "annId": 20599,
-        "RO": "Shokugeki no Souma: San no Sara",
-        "EN": "Food Wars! The Third Plate",
-        "JA": "食戟のソーマ 餐ノ皿"
     },
     {
         "annId": 20601,
@@ -37006,12 +35620,6 @@
         "RO": "Hanebado!",
         "EN": "Hanebado!",
         "JA": "はねバド！"
-    },
-    {
-        "annId": 20614,
-        "RO": "Captain Tsubasa",
-        "EN": "Captain Tsubasa",
-        "JA": "キャプテン翼"
     },
     {
         "annId": 20616,
@@ -37098,12 +35706,6 @@
         "JA": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか －オリオンの矢－"
     },
     {
-        "annId": 20677,
-        "RO": "Hoozuki no Reitetsu",
-        "EN": "Hozuki's Coolheadedness",
-        "JA": "鬼灯の冷徹"
-    },
-    {
         "annId": 20679,
         "RO": "Uchuu Senkan Tiramisu",
         "EN": "Space Battleship Tiramisu",
@@ -37144,12 +35746,6 @@
         "RO": "Penguin Highway",
         "EN": "Penguin Highway",
         "JA": "ペンギン・ハイウェイ"
-    },
-    {
-        "annId": 20712,
-        "RO": "Hare Tokidoki Buta",
-        "EN": "Fair, then Partly Piggy",
-        "JA": "はれときどきぶた"
     },
     {
         "annId": 20732,
@@ -37294,18 +35890,6 @@
         "RO": "Akanesasu Shoujo",
         "EN": "The Girl in Twilight",
         "JA": "あかねさす少女"
-    },
-    {
-        "annId": 20783,
-        "RO": "Shounen Ashibe GO! GO! Goma-chan",
-        "EN": "Shounen Ashibe GO! GO! Goma-chan",
-        "JA": "少年アシベ GO！GO！ゴマちゃん"
-    },
-    {
-        "annId": 20784,
-        "RO": "Shounen Ashibe GO! GO! Goma-chan",
-        "EN": "Shounen Ashibe GO! GO! Goma-chan",
-        "JA": "少年アシベ GO！GO！ゴマちゃん"
     },
     {
         "annId": 20785,
@@ -37554,12 +36138,6 @@
         "JA": "俺が好きなのは妹だけど妹じゃない"
     },
     {
-        "annId": 20876,
-        "RO": "Cardfight!! Vanguard",
-        "EN": "Cardfight!! Vanguard",
-        "JA": "カードファイト!! ヴァンガード"
-    },
-    {
         "annId": 20877,
         "RO": "Duel Masters!",
         "EN": "Duel Masters!",
@@ -37626,12 +36204,6 @@
         "JA": "劇場版 プリパラ＆キラッとプリ☆チャン"
     },
     {
-        "annId": 20911,
-        "RO": "Kimi no Iru Machi",
-        "EN": "A Town Where You Live",
-        "JA": "君のいる町"
-    },
-    {
         "annId": 20916,
         "RO": "Chuukan Kanriroku Tonegawa",
         "EN": "Mr. Tonegawa: Middle Management Blues",
@@ -37642,18 +36214,6 @@
         "RO": "Gintama. Shirogane no Tamashii-hen",
         "EN": "Gintama. Silver Soul Arc",
         "JA": "Gintama. Shirogane no Tamashii-hen"
-    },
-    {
-        "annId": 20918,
-        "RO": "Ongaku Shoujo",
-        "EN": "Music Girls",
-        "JA": "音楽少女"
-    },
-    {
-        "annId": 20937,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
     },
     {
         "annId": 20960,
@@ -37776,12 +36336,6 @@
         "JA": "爆釣バーハンター"
     },
     {
-        "annId": 21112,
-        "RO": "Wakaokami wa Shougakusei!",
-        "EN": "Okko's Inn",
-        "JA": "若おかみは小学生！"
-    },
-    {
         "annId": 21114,
         "RO": "Watashi ni Tenshi ga Maiorita!",
         "EN": "Wataten!: An Angel Flew Down to Me",
@@ -37792,12 +36346,6 @@
         "RO": "Gaikotsu Shotenin Honda-san",
         "EN": "Skull-face Bookseller Honda-san",
         "JA": "ガイコツ書店員 本田さん"
-    },
-    {
-        "annId": 21116,
-        "RO": "Tokyo Ghoul:re",
-        "EN": "Tokyo Ghoul:re",
-        "JA": "東京喰種：re"
     },
     {
         "annId": 21119,
@@ -37860,18 +36408,6 @@
         "JA": "ジョジョの奇妙な冒険 黄金の風"
     },
     {
-        "annId": 21133,
-        "RO": "Souten no Ken: Regenesis",
-        "EN": "Fist of the Blue Sky: Regenesis",
-        "JA": "蒼天の拳 REGENESIS"
-    },
-    {
-        "annId": 21134,
-        "RO": "Karakai Jouzu no Takagi-san",
-        "EN": "Teasing Master Takagi-san",
-        "JA": "からかい上手の高木さん"
-    },
-    {
         "annId": 21135,
         "RO": "Tonari no Kyuuketsuki-san",
         "EN": "Ms. Vampire Who Lives in My Neighborhood.",
@@ -37882,12 +36418,6 @@
         "RO": "Uchuu Senkan Tiramisu II",
         "EN": "Space Battleship Tiramisu Zwei",
         "JA": "宇宙戦艦ティラミス"
-    },
-    {
-        "annId": 21137,
-        "RO": "Golden Kamuy",
-        "EN": "Golden Kamuy",
-        "JA": "ゴールデンカムイ"
     },
     {
         "annId": 21138,
@@ -37966,12 +36496,6 @@
         "RO": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
         "EN": "Modest Heroes",
         "JA": "ちいさな英雄－カニとタマゴと透明人間－"
-    },
-    {
-        "annId": 21201,
-        "RO": "Boogiepop wa Warawanai",
-        "EN": "Boogiepop and Others",
-        "JA": "ブギーポップは笑わない"
     },
     {
         "annId": 21202,
@@ -38160,12 +36684,6 @@
         "JA": "臨死‼ 江古田ちゃん"
     },
     {
-        "annId": 21282,
-        "RO": "One Punch Man",
-        "EN": "One Punch Man",
-        "JA": "ワンパンマン"
-    },
-    {
         "annId": 21283,
         "RO": "Hoshiai no Sora",
         "EN": "Stars Align",
@@ -38260,12 +36778,6 @@
         "RO": "Kirakira Happy★Hirake! Cocotama",
         "EN": "Kirakira Happy★Hirake! Cocotama",
         "JA": "キラキラハッピー★ひらけ！ここたま"
-    },
-    {
-        "annId": 21369,
-        "RO": "Seizei Gambare Mahou Shoujo Kurumi",
-        "EN": "Seizei Gambare Mahou Shoujo Kurumi",
-        "JA": "せいぜいがんばれ！魔法少女くるみ"
     },
     {
         "annId": 21370,
@@ -38508,12 +37020,6 @@
         "JA": "Hataraku Saibou: Kaze Shoukougun"
     },
     {
-        "annId": 21588,
-        "RO": "Fruits Basket",
-        "EN": "Fruits Basket",
-        "JA": "フルーツバスケット"
-    },
-    {
         "annId": 21589,
         "RO": "Kemono Friends 2",
         "EN": "Kemono Friends 2",
@@ -38652,12 +37158,6 @@
         "JA": "ドクターストーン"
     },
     {
-        "annId": 21704,
-        "RO": "High Score Girl",
-        "EN": "Hi Score Girl",
-        "JA": "ハイスコアガール"
-    },
-    {
         "annId": 21705,
         "RO": "Korasho no Kaitei Wakuwaku Daibouken!",
         "EN": "Korasho no Kaitei Wakuwaku Daibouken!",
@@ -38692,12 +37192,6 @@
         "RO": "One Piece: Stampede",
         "EN": "One Piece: Stampede",
         "JA": "劇場版 ONE PIECE STAMPEDE"
-    },
-    {
-        "annId": 21733,
-        "RO": "Bungo Stray Dogs",
-        "EN": "Bungo Stray Dogs",
-        "JA": "文豪ストレイドッグス"
     },
     {
         "annId": 21735,
@@ -38784,12 +37278,6 @@
         "JA": "彼方のアストラ"
     },
     {
-        "annId": 21793,
-        "RO": "Kiratto Pri☆Chan",
-        "EN": "Kiratto Pri☆Chan",
-        "JA": "キラッとプリ☆チャン"
-    },
-    {
         "annId": 21794,
         "RO": "Ni no Kuni",
         "EN": "Ni no Kuni",
@@ -38830,12 +37318,6 @@
         "RO": "Jimoto ga Japan",
         "EN": "I'm From Japan",
         "JA": "ジモトがジャパン"
-    },
-    {
-        "annId": 21812,
-        "RO": "Shingeki no Kyojin Season 3",
-        "EN": "Attack on Titan Season 3",
-        "JA": "進撃の巨人"
     },
     {
         "annId": 21814,
@@ -38964,12 +37446,6 @@
         "JA": "グレイプニル"
     },
     {
-        "annId": 21889,
-        "RO": "Shounen Ashibe GO! GO! Goma-chan",
-        "EN": "Shounen Ashibe GO! GO! Goma-chan",
-        "JA": "少年アシベ GO！GO！ゴマちゃん"
-    },
-    {
         "annId": 21890,
         "RO": "Sounan desu ka?",
         "EN": "Are You Lost?",
@@ -39000,12 +37476,6 @@
         "JA": "世話やきキツネの仙狐さん"
     },
     {
-        "annId": 21914,
-        "RO": "Han-Gyaku-Sei Million Arthur",
-        "EN": "Million Arthur",
-        "JA": "叛逆性ミリオンアーサー"
-    },
-    {
         "annId": 21915,
         "RO": "Kochouki: Wakaki Nobunaga",
         "EN": "Kochoki",
@@ -39022,12 +37492,6 @@
         "RO": "Bakumatsu Crisis",
         "EN": "Bakumatsu Crisis",
         "JA": "BAKUMATSUクライシス"
-    },
-    {
-        "annId": 21941,
-        "RO": "High School! Kimengumi",
-        "EN": "High School! Kimengumi",
-        "JA": "ハイスクール！奇面組"
     },
     {
         "annId": 21942,
@@ -39102,12 +37566,6 @@
         "JA": "ノー・ガンズ・ライフ"
     },
     {
-        "annId": 21981,
-        "RO": "Koukou Hoshi Kageki",
-        "EN": "Starmyu",
-        "JA": "スタミュ"
-    },
-    {
         "annId": 21982,
         "RO": "Chuubyou Gekihatsu Boy",
         "EN": "Outburst Dreamer Boys",
@@ -39136,12 +37594,6 @@
         "RO": "Cinderella Girls Gekijou Climax Season",
         "EN": "The iDOLM@STER Cinderella Girls Theater Climax Season",
         "JA": "アイドルマスター シンデレラガールズ劇場 CLIMAX SEASON"
-    },
-    {
-        "annId": 21988,
-        "RO": "Hoozuki no Reitetsu",
-        "EN": "Hozuki's Coolheadedness",
-        "JA": "鬼灯の冷徹"
     },
     {
         "annId": 21989,
@@ -39202,12 +37654,6 @@
         "RO": "Majo Minarai o Sagashite",
         "EN": "Majo Minarai o Sagashite",
         "JA": "魔女見習いをさがして"
-    },
-    {
-        "annId": 22005,
-        "RO": "Re:Zero kara Hajimeru Isekai Seikatsu",
-        "EN": "Re:Zero: Starting Life in Another World",
-        "JA": "Re：ゼロから始める異世界生活"
     },
     {
         "annId": 22006,
@@ -39328,18 +37774,6 @@
         "RO": "BanG Dream! Film Live",
         "EN": "BanG Dream! Film Live",
         "JA": "BanG Dream! FILM LIVE official site"
-    },
-    {
-        "annId": 22079,
-        "RO": "Love Live! School Idol Project Sunshine!!",
-        "EN": "Love Live! Sunshine!!",
-        "JA": "ラブライブ！サンシャイン!!"
-    },
-    {
-        "annId": 22080,
-        "RO": "Love Live! School Idol Project",
-        "EN": "Love Live! School Idol Project",
-        "JA": "ラブライブ！ School idol project"
     },
     {
         "annId": 22081,
@@ -39540,12 +37974,6 @@
         "JA": "アサシンズプライド"
     },
     {
-        "annId": 22234,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
-    },
-    {
         "annId": 22235,
         "RO": "Mahoutsukai Nara Miso o Kue!",
         "EN": "Mahoutsukai Nara Miso o Kue!",
@@ -39672,34 +38100,16 @@
         "JA": "あんさんぶるスターズ！"
     },
     {
-        "annId": 22260,
-        "RO": "Piano no Mori",
-        "EN": "Forest of Piano",
-        "JA": "ピアノの森"
-    },
-    {
         "annId": 22261,
         "RO": "Fujiko Fujio no Kiteretsu Daihyakka",
         "EN": "Fujiko Fujio no Kiteretsu Daihyakka",
         "JA": "藤子不二雄のキテレツ大百科"
     },
     {
-        "annId": 22263,
-        "RO": "SKET Dance",
-        "EN": "SKET Dance",
-        "JA": "スケット・ダンス"
-    },
-    {
         "annId": 22264,
         "RO": "Monster Strike the Animation",
         "EN": "Monster Strike the Animation",
         "JA": "モンスターストライク 新シリーズ"
-    },
-    {
-        "annId": 22265,
-        "RO": "Boku no Hero Academia",
-        "EN": "My Hero Academia",
-        "JA": "僕のヒーローアカデミア"
     },
     {
         "annId": 22267,
@@ -39948,12 +38358,6 @@
         "JA": "りばあす"
     },
     {
-        "annId": 22341,
-        "RO": "Fairy Gone",
-        "EN": "Fairy Gone",
-        "JA": "フェアリーゴーン"
-    },
-    {
         "annId": 22342,
         "RO": "Strike Witches: Gekijouban 501 Butai Hasshin Shimasu!",
         "EN": "Strike Witches: 501st JOINT FIGHTER WING Take Off! OVA",
@@ -40012,12 +38416,6 @@
         "RO": "Mutafukaz",
         "EN": "MFKZ",
         "JA": "ムタフカズ －MUTAFUKAZ－"
-    },
-    {
-        "annId": 22357,
-        "RO": "Sengoku Majin Goushougun",
-        "EN": "GoShogun",
-        "JA": "戦国魔神ゴーショーグン"
     },
     {
         "annId": 22360,
@@ -40290,12 +38688,6 @@
         "JA": "超次元ゲイム ネプテューヌ THE ANIMATION 約束の永遠（トゥルーエンド）"
     },
     {
-        "annId": 22476,
-        "RO": "Poputepipikku",
-        "EN": "Pop Team Epic",
-        "JA": "ポプテピピック"
-    },
-    {
         "annId": 22477,
         "RO": "Mobile Suit Gundam Twilight Axis: Akaki Zan-ei",
         "EN": "Mobile Suit Gundam Twilight Axis: Akaki Zan-ei",
@@ -40504,12 +38896,6 @@
         "RO": "Santa Company: Christmas no Himitsu",
         "EN": "Santa Company: Christmas no Himitsu",
         "JA": "サンタ・カンパニー ～クリスマスの秘密～"
-    },
-    {
-        "annId": 22543,
-        "RO": "Coluboccoro",
-        "EN": "Coluboccoro",
-        "JA": "コルボッコロ"
     },
     {
         "annId": 22544,
@@ -40926,12 +39312,6 @@
         "JA": "映画 えんとつ町のプペル"
     },
     {
-        "annId": 22931,
-        "RO": "Kingdom",
-        "EN": "Kingdom",
-        "JA": "キングダム"
-    },
-    {
         "annId": 22932,
         "RO": "Strike the Blood IV",
         "EN": "Strike the Blood IV",
@@ -41136,12 +39516,6 @@
         "JA": "継つぐもも"
     },
     {
-        "annId": 22979,
-        "RO": "Muhyo to Roji no Mahouritsu Soudan Jimusho",
-        "EN": "Muhyo & Roji's Bureau of Supernatural Investigation",
-        "JA": "ムヒョとロージーの魔法律相談事務所"
-    },
-    {
         "annId": 22980,
         "RO": "Fugou Keiji Balance: Unlimited",
         "EN": "The Millionaire Detective: Balance: Unlimited",
@@ -41178,18 +39552,6 @@
         "JA": "Persona 5 the Animation: A Magical Valentine's Day"
     },
     {
-        "annId": 22986,
-        "RO": "Hidan no Aria",
-        "EN": "Aria the Scarlet Ammo",
-        "JA": "緋弾のアリア"
-    },
-    {
-        "annId": 22987,
-        "RO": "IDOLiSH7",
-        "EN": "IDOLiSH7",
-        "JA": "アイドリッシュセブン"
-    },
-    {
         "annId": 22988,
         "RO": "Ken Ouchou",
         "EN": "Sword Dynasty",
@@ -41218,12 +39580,6 @@
         "RO": "Log Horizon: Entaku Houkai",
         "EN": "Log Horizon: Destruction of the Round Table",
         "JA": "ログ・ホライズン 円卓崩壊"
-    },
-    {
-        "annId": 22995,
-        "RO": "Golden Kamuy",
-        "EN": "Golden Kamuy",
-        "JA": "ゴールデンカムイ"
     },
     {
         "annId": 22996,
@@ -41514,12 +39870,6 @@
         "JA": "映画 くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ"
     },
     {
-        "annId": 23059,
-        "RO": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka II",
-        "EN": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
-        "JA": "ダンジョンに出会いを求めるのは間違っているだろうか"
-    },
-    {
         "annId": 23060,
         "RO": "Shin-men",
         "EN": "Shin-men",
@@ -41634,12 +39984,6 @@
         "JA": "やさしいあくま"
     },
     {
-        "annId": 23080,
-        "RO": "Nande Koko ni Sensei ga!?",
-        "EN": "Why the Hell are You Here, Teacher!?",
-        "JA": "なんでここに先生が!?"
-    },
-    {
         "annId": 23081,
         "RO": "Kimi no Matsu Basho e",
         "EN": "Kimi no Matsu Basho e",
@@ -41658,12 +40002,6 @@
         "JA": "ノブレス"
     },
     {
-        "annId": 23084,
-        "RO": "No Guns Life",
-        "EN": "No Guns Life",
-        "JA": "ノー・ガンズ・ライフ"
-    },
-    {
         "annId": 23089,
         "RO": "86 Eighty-Six",
         "EN": "86 Eighty-Six",
@@ -41680,12 +40018,6 @@
         "RO": "Toji no Miko: Kizamishi Issen no Tomoshibi",
         "EN": "Katana Maidens: Tomoshibi",
         "JA": "刀使ノ巫女 刻みし一閃の燈火"
-    },
-    {
-        "annId": 23092,
-        "RO": "Soushin Shoujo Matoi",
-        "EN": "Matoi the Sacred Slayer",
-        "JA": "装神少女まとい"
     },
     {
         "annId": 23093,
@@ -41808,12 +40140,6 @@
         "JA": "デスティニーチャイルド"
     },
     {
-        "annId": 23123,
-        "RO": "Gakkou no Kaidan",
-        "EN": "Gakkou no Kaidan",
-        "JA": "学校の怪談"
-    },
-    {
         "annId": 23124,
         "RO": "Burn the Witch",
         "EN": "Burn the Witch",
@@ -41836,12 +40162,6 @@
         "RO": "Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars",
         "EN": "Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars",
         "JA": "銀河鉄道の夜 -Fantasy Railroad in the Stars-"
-    },
-    {
-        "annId": 23131,
-        "RO": "Kiratto Pri☆Chan",
-        "EN": "Kiratto Pri☆Chan",
-        "JA": "キラッとプリ☆チャン"
     },
     {
         "annId": 23132,
@@ -41998,12 +40318,6 @@
         "RO": "Duel Masters King",
         "EN": "Duel Masters King",
         "JA": "デュエル・マスターズ キング"
-    },
-    {
-        "annId": 23165,
-        "RO": "Haikyu!! To the Top",
-        "EN": "Haikyu!! To the Top",
-        "JA": "ハイキュー!! TO THE TOP"
     },
     {
         "annId": 23167,
@@ -42276,18 +40590,6 @@
         "JA": "パブー&amp;モジーズ"
     },
     {
-        "annId": 23239,
-        "RO": "Eromanga Sensei",
-        "EN": "Eromanga Sensei",
-        "JA": "エロマンガ先生"
-    },
-    {
-        "annId": 23240,
-        "RO": "World Witches Series: Dai 502 Tougou Sentou Koukuu-dan Brave Witches",
-        "EN": "Brave Witches",
-        "JA": "ブレイブウィッチーズ"
-    },
-    {
         "annId": 23241,
         "RO": "Town Workers",
         "EN": "Town Workers",
@@ -42376,12 +40678,6 @@
         "RO": "Kami-tachi ni Hirowareta Otoko",
         "EN": "By the Grace of the Gods",
         "JA": "神達に拾われた男"
-    },
-    {
-        "annId": 23263,
-        "RO": "Yakusoku no Neverland",
-        "EN": "The Promised Neverland",
-        "JA": "約束のネバーランド"
     },
     {
         "annId": 23264,
@@ -42672,12 +40968,6 @@
         "JA": "転生したらスライムだった件"
     },
     {
-        "annId": 23358,
-        "RO": "Tensei shitara Slime Datta Ken",
-        "EN": "That Time I Got Reincarnated as a Slime",
-        "JA": "転生したらスライムだった件"
-    },
-    {
         "annId": 23359,
         "RO": "Tensura Nikki: Tensei shitara Slime Datta Ken",
         "EN": "The Slime Diaries",
@@ -42754,12 +41044,6 @@
         "RO": "Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi",
         "EN": "Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi",
         "JA": "小さなラブレター まり子とねむの木の子供たち"
-    },
-    {
-        "annId": 23375,
-        "RO": "Akatsuki no Yona",
-        "EN": "Yona of the Dawn",
-        "JA": "暁のヨナ"
     },
     {
         "annId": 23376,
@@ -42846,22 +41130,10 @@
         "JA": "あなたが振り返るとき"
     },
     {
-        "annId": 23394,
-        "RO": "Kowarekake no Orgel",
-        "EN": "Kowarekake no Orgel",
-        "JA": "こわれかけのオルゴール"
-    },
-    {
         "annId": 23395,
         "RO": "Je T'aime",
         "EN": "Je T'aime",
         "JA": "Je T'aime"
-    },
-    {
-        "annId": 23396,
-        "RO": "Yuragi-sou no Yuuna-san",
-        "EN": "Yuuna and the Haunted Hot Springs",
-        "JA": "ゆらぎ荘の幽奈さん"
     },
     {
         "annId": 23397,
@@ -42874,12 +41146,6 @@
         "RO": "Joshikousei Nobunaga-chan!!",
         "EN": "Joshikousei Nobunaga-chan!!",
         "JA": "女子高生信長ちゃん!!"
-    },
-    {
-        "annId": 23400,
-        "RO": "Fairy Tail",
-        "EN": "Fairy Tail",
-        "JA": "フェアリーテイル"
     },
     {
         "annId": 23401,
@@ -42900,12 +41166,6 @@
         "JA": "ぬらりひょんの孫 ~激闘 大フットサル大会!奴良組Wカップ!!~"
     },
     {
-        "annId": 23404,
-        "RO": "Nurarihyon no Mago",
-        "EN": "Nura: Rise of the Yokai Clan",
-        "JA": "ぬらりひょんの孫"
-    },
-    {
         "annId": 23405,
         "RO": "Kita e.: Pure Session",
         "EN": "Kita e.: Pure Session",
@@ -42922,12 +41182,6 @@
         "RO": "Gattai Robot Atranger",
         "EN": "Gattai Robot Atranger",
         "JA": "合体ロボット アトランジャー"
-    },
-    {
-        "annId": 23413,
-        "RO": "Shaman King",
-        "EN": "Shaman King",
-        "JA": "シャーマンキング"
     },
     {
         "annId": 23448,
@@ -43054,12 +41308,6 @@
         "RO": "Grisaia: Phantom Trigger the Animation Stargazer",
         "EN": "Grisaia: Phantom Trigger the Animation Stargazer",
         "JA": "グリザイア：ファントムトリガー THE ANIMATION スターゲイザー"
-    },
-    {
-        "annId": 23500,
-        "RO": "Osomatsu-san",
-        "EN": "Mr. Osomatsu",
-        "JA": "おそ松さん"
     },
     {
         "annId": 23501,
@@ -43228,12 +41476,6 @@
         "RO": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
         "EN": "Fate/Grand Order Absolute Demonic Front: Babylonia",
         "JA": "Fate/Grand Order -絶対魔獣戦線バビロニア- Initium Iter"
-    },
-    {
-        "annId": 23548,
-        "RO": "Seitokai no Ichizon Lv. 2",
-        "EN": "Student Council's Discretion Lv. 2",
-        "JA": "生徒会の一存 Lv.2"
     },
     {
         "annId": 23549,
@@ -43446,12 +41688,6 @@
         "JA": "プレイタの傷"
     },
     {
-        "annId": 23664,
-        "RO": "Drifters",
-        "EN": "Drifters",
-        "JA": "ドリフターズ"
-    },
-    {
         "annId": 23665,
         "RO": "Fushigi Dagashiya Zenitendou",
         "EN": "Fushigi Dagashiya Zenitendou",
@@ -43464,12 +41700,6 @@
         "JA": "イケメン救護隊 Nurse Angels"
     },
     {
-        "annId": 23687,
-        "RO": "22/7",
-        "EN": "22/7 (Nanabun no Nijyuuni)",
-        "JA": "ナナブンノニジュウニ"
-    },
-    {
         "annId": 23699,
         "RO": "Sore dake ga Neck",
         "EN": "That is the Bottleneck",
@@ -43480,12 +41710,6 @@
         "RO": "Kaeru no Pickles Kimochi no Iro",
         "EN": "Kaeru no Pickles Kimochi no Iro",
         "JA": "かえるのピクルス きもちのいろ"
-    },
-    {
-        "annId": 23701,
-        "RO": "Seizei Gambare Mahou Shoujo Kurumi",
-        "EN": "Seizei Gambare Mahou Shoujo Kurumi",
-        "JA": "せいぜいがんばれ！魔法少女くるみ"
     },
     {
         "annId": 23703,
@@ -43546,12 +41770,6 @@
         "RO": "Hallelujah: Unmei no Sentaku",
         "EN": "Hallelujah: Unmei no Sentaku",
         "JA": "ハレルヤ - 運命の選択 -"
-    },
-    {
-        "annId": 23721,
-        "RO": "Sword Art Online: Alicization - War of Underworld",
-        "EN": "Sword Art Online: Alicization - War of Underworld",
-        "JA": "ソードアート・オンライン アリシゼーション War of Underworld"
     },
     {
         "annId": 23722,
@@ -43636,12 +41854,6 @@
         "RO": "Fate/kaleid liner Prisma☆Illya 2wei!",
         "EN": "Fate/kaleid liner Prisma☆Illya 2wei!",
         "JA": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!"
-    },
-    {
-        "annId": 23762,
-        "RO": "Fate/kaleid liner Prisma☆Illya 3rei!!",
-        "EN": "Fate/kaleid liner Prisma☆Illya 3rei!!",
-        "JA": "Fate/kaleid liner プリズマ☆イリヤ ドライ! !"
     },
     {
         "annId": 23763,
@@ -43908,12 +42120,6 @@
         "JA": "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女"
     },
     {
-        "annId": 23853,
-        "RO": "100-man no Inochi no Ue ni Ore wa Tatteiru",
-        "EN": "I'm Standing on A Million Lives",
-        "JA": "100万の命の上に俺は立っている"
-    },
-    {
         "annId": 23854,
         "RO": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka III",
         "EN": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
@@ -43924,12 +42130,6 @@
         "RO": "Zetsumetsu Kigu-shun.",
         "EN": "Zetsumetsu Kigu-shun.",
         "JA": "ぜつめつきぐしゅんっ。"
-    },
-    {
-        "annId": 23857,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
     },
     {
         "annId": 23858,
@@ -43948,12 +42148,6 @@
         "RO": "Platinum End",
         "EN": "Platinum End",
         "JA": "プラチナエンド"
-    },
-    {
-        "annId": 23862,
-        "RO": "Boku no Hero Academia",
-        "EN": "My Hero Academia",
-        "JA": "僕のヒーローアカデミア"
     },
     {
         "annId": 23863,
@@ -43978,12 +42172,6 @@
         "RO": "Taishou Otome Otogibanashi",
         "EN": "Taisho Otome Fairy Tale",
         "JA": "大正オトメ御伽話"
-    },
-    {
-        "annId": 23867,
-        "RO": "Ebiten: Kouritsu Ebisugawa Koukou Tenmon-bu",
-        "EN": "Ebiten: Ebisugawa Public High School's Tenmonbu",
-        "JA": "えびてん 公立海老栖川高校天悶部"
     },
     {
         "annId": 23868,
@@ -44086,12 +42274,6 @@
         "RO": "Chou Futsuu Ken Chiba Densetsu",
         "EN": "The Legend of Super Normal Pref. Chiba",
         "JA": "超普通県チバ伝説"
-    },
-    {
-        "annId": 23886,
-        "RO": "Love Live! School Idol Project Nijigasaki Gakuen School Idol Doukoukai",
-        "EN": "Love Live! Nijigasaki High School Idol Club",
-        "JA": "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
     },
     {
         "annId": 23889,
@@ -44218,12 +42400,6 @@
         "RO": "Eiga Doraemon: Nobita no Little Star Wars 2021",
         "EN": "Doraemon: Nobita's Little Star Wars 2021",
         "JA": "映画 ドラえもん のび太の宇宙小戦争 2021"
-    },
-    {
-        "annId": 23927,
-        "RO": "Trickster: Edogawa Rampo 'Shounen Tanteidan' yori",
-        "EN": "Trickster",
-        "JA": "TRICKSTER -江戸川乱歩「少年探偵団」より-"
     },
     {
         "annId": 23928,
@@ -44394,12 +42570,6 @@
         "JA": "進化の実～知らないうちに勝ち組人生～"
     },
     {
-        "annId": 23976,
-        "RO": "Yuukoku no Moriarty",
-        "EN": "Moriarty the Patriot",
-        "JA": "憂国のモリアーティ"
-    },
-    {
         "annId": 23978,
         "RO": "Eiga Healin' Good♡Precure: Yume no Machi de Kyun! tto GoGo! Dai Henshin!!",
         "EN": "Eiga Healin' Good♡Precure: Yume no Machi de Kyun! tto GoGo! Dai Henshin!!",
@@ -44506,12 +42676,6 @@
         "RO": "Cestvs: The Roman Fighter",
         "EN": "Cestvs: The Roman Fighter",
         "JA": "セスタス -The Roman Fighter-"
-    },
-    {
-        "annId": 24018,
-        "RO": "Mairimashita! Iruma-kun",
-        "EN": "Welcome to Demon School! Iruma-kun",
-        "JA": "魔入りました！入間くん"
     },
     {
         "annId": 24019,
@@ -44736,12 +42900,6 @@
         "JA": "かげきしょうじょ!!"
     },
     {
-        "annId": 24089,
-        "RO": "Otaku ni Koi wa Muzukashii",
-        "EN": "Wotakoi: Love is Hard for Otaku",
-        "JA": "ヲタクに恋は難しい"
-    },
-    {
         "annId": 24090,
         "RO": "Boku-tachi no Remake",
         "EN": "Remake Our Life!",
@@ -44758,12 +42916,6 @@
         "RO": "RPG Fudousan",
         "EN": "RPG Real Estate",
         "JA": "RPG不動産"
-    },
-    {
-        "annId": 24095,
-        "RO": "Kanojo, Okarishimasu",
-        "EN": "Rent-a-Girlfriend",
-        "JA": "彼女、お借りします"
     },
     {
         "annId": 24099,
@@ -44857,24 +43009,6 @@
     },
     {
         "annId": 24132,
-        "RO": "Aware! Meisaku-kun",
-        "EN": "Aware! Meisaku-kun",
-        "JA": "あはれ! 名作くん"
-    },
-    {
-        "annId": 24133,
-        "RO": "Aware! Meisaku-kun",
-        "EN": "Aware! Meisaku-kun",
-        "JA": "あはれ! 名作くん"
-    },
-    {
-        "annId": 24134,
-        "RO": "Aware! Meisaku-kun",
-        "EN": "Aware! Meisaku-kun",
-        "JA": "あはれ! 名作くん"
-    },
-    {
-        "annId": 24135,
         "RO": "Aware! Meisaku-kun",
         "EN": "Aware! Meisaku-kun",
         "JA": "あはれ! 名作くん"
@@ -45084,12 +43218,6 @@
         "JA": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ"
     },
     {
-        "annId": 24201,
-        "RO": "World Trigger",
-        "EN": "World Trigger",
-        "JA": "ワールドトリガー"
-    },
-    {
         "annId": 24202,
         "RO": "Muteking the Dancing Hero",
         "EN": "Muteking the Dancing Hero",
@@ -45130,12 +43258,6 @@
         "RO": "Wonder Egg Priority",
         "EN": "Wonder Egg Priority",
         "JA": "ワンダーエッグ・プライオリティ 特別編"
-    },
-    {
-        "annId": 24212,
-        "RO": "Tensei shitara Slime Datta Ken",
-        "EN": "That Time I Got Reincarnated as a Slime",
-        "JA": "転生したらスライムだった件"
     },
     {
         "annId": 24213,
@@ -45198,18 +43320,6 @@
         "JA": "王様ランキング"
     },
     {
-        "annId": 24251,
-        "RO": "Washimo",
-        "EN": "Washimo",
-        "JA": "わしも"
-    },
-    {
-        "annId": 24254,
-        "RO": "Washimo",
-        "EN": "Washimo",
-        "JA": "わしも"
-    },
-    {
         "annId": 24290,
         "RO": "Dance Dance Danseur",
         "EN": "Dance Dance Danseur",
@@ -45226,12 +43336,6 @@
         "RO": "Riku wa Yowakunai",
         "EN": "Riku wa Yowakunai",
         "JA": "リクはよわくない"
-    },
-    {
-        "annId": 24293,
-        "RO": "Gokushufudou",
-        "EN": "The Way of the Househusband",
-        "JA": "極主夫道"
     },
     {
         "annId": 24297,
@@ -45444,12 +43548,6 @@
         "JA": "メイドインアビス 烈日の黄金郷"
     },
     {
-        "annId": 24363,
-        "RO": "Spriggan",
-        "EN": "Spriggan",
-        "JA": "スプリガン"
-    },
-    {
         "annId": 24364,
         "RO": "Overlord IV",
         "EN": "Overlord IV",
@@ -45460,12 +43558,6 @@
         "RO": "Chie-chan Funsenki: Jarinko Chie",
         "EN": "Chie-chan Funsenki: Jarinko Chie",
         "JA": "チエちゃん奮戦記 じゃりン子チエ"
-    },
-    {
-        "annId": 24366,
-        "RO": "Love Live! School Idol Project Nijigasaki Gakuen School Idol Doukoukai",
-        "EN": "Love Live! Nijigasaki High School Idol Club",
-        "JA": "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
     },
     {
         "annId": 24369,
@@ -45576,22 +43668,10 @@
         "JA": "宇宙戦艦ヤマト2205 新たなる旅立ち"
     },
     {
-        "annId": 24450,
-        "RO": "Jaku-Chara Tomozaki-kun",
-        "EN": "Bottom-Tier Character Tomozaki",
-        "JA": "弱キャラ友崎くん"
-    },
-    {
         "annId": 24451,
         "RO": "Reiwa no Di Gi Charat",
         "EN": "Reiwa no Di Gi Charat",
         "JA": "令和のデ・ジ・キャラット"
-    },
-    {
-        "annId": 24452,
-        "RO": "Yu-Gi-Oh! Sevens",
-        "EN": "Yu-Gi-Oh! Sevens",
-        "JA": "遊☆戯☆王SEVENS"
     },
     {
         "annId": 24453,
@@ -46110,12 +44190,6 @@
         "JA": "攻殻機動隊 SAC_2045 持続可能戦争"
     },
     {
-        "annId": 24710,
-        "RO": "Koukaku Kidoutai: SAC_2045",
-        "EN": "Ghost in the Shell: SAC_2045",
-        "JA": "攻殻機動隊 SAC_2045"
-    },
-    {
         "annId": 24712,
         "RO": "Atasha Kawashiri Kodama Da Yo: Dangerous Lifehacker no Tadareta Seikatsu",
         "EN": "I'm Kodama Kawashiri",
@@ -46126,12 +44200,6 @@
         "RO": "Mahou Shoujo Magical Destroyers",
         "EN": "Magical Destroyers",
         "JA": "魔法少女マジカルデストロイヤーズ"
-    },
-    {
-        "annId": 24714,
-        "RO": "Mairimashita! Iruma-kun",
-        "EN": "Welcome to Demon School! Iruma-kun",
-        "JA": "魔入りました！入間くん"
     },
     {
         "annId": 24715,
@@ -46200,18 +44268,6 @@
         "JA": "君を愛したひとりの僕へ"
     },
     {
-        "annId": 24738,
-        "RO": "Hakuouki",
-        "EN": "Hakuoki: Demon of the Fleeting Blossom",
-        "JA": "薄桜鬼"
-    },
-    {
-        "annId": 24741,
-        "RO": "Vanitas no Karte",
-        "EN": "The Case Study of Vanitas",
-        "JA": "ヴァニタスの手記"
-    },
-    {
         "annId": 24742,
         "RO": "Gekijouban Otome Game no Hametsu Flag Shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...",
         "EN": "My Next Life as a Villainess: All Routes Lead to Doom! The Movie",
@@ -46228,12 +44284,6 @@
         "RO": "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru",
         "EN": "The Greatest Demon Lord is Reborn as a Typical Nobody",
         "JA": "史上最強の大魔王、村人Aに転生する"
-    },
-    {
-        "annId": 24748,
-        "RO": "Shinigami Bocchan to Kuro Maid",
-        "EN": "The Duke of Death and His Maid",
-        "JA": "死神坊ちゃんと黒メイド"
     },
     {
         "annId": 24750,
@@ -46276,12 +44326,6 @@
         "RO": "Tales of Luminaria the Fateful Crossroad",
         "EN": "Tales of Luminaria the Fateful Crossroad",
         "JA": "テイルズ オブ ルミナリア The Fateful Crossroad"
-    },
-    {
-        "annId": 24773,
-        "RO": "Boku no Hero Academia",
-        "EN": "My Hero Academia",
-        "JA": "僕のヒーローアカデミア"
     },
     {
         "annId": 24776,
@@ -46350,18 +44394,6 @@
         "JA": "アイドルマスターシリーズ コンセプトムービー2021『VOY@GER』"
     },
     {
-        "annId": 24789,
-        "RO": "Tanaka-kun wa Itsumo Kedaruge",
-        "EN": "Tanaka-kun is Always Listless",
-        "JA": "田中くんはいつもけだるげ"
-    },
-    {
-        "annId": 24790,
-        "RO": "Aggressive Retsuko",
-        "EN": "Aggretsuko",
-        "JA": "アグレッシブ烈子"
-    },
-    {
         "annId": 24791,
         "RO": "Ame o Tsugeru Hyouryuu Danchi",
         "EN": "Drifting Home",
@@ -46380,22 +44412,10 @@
         "JA": "魔法科高校の劣等生 追憶編"
     },
     {
-        "annId": 24794,
-        "RO": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
-        "EN": "How a Realist Hero Rebuilt the Kingdom",
-        "JA": "現実主義勇者の王国再建記"
-    },
-    {
         "annId": 24798,
         "RO": "Puchi Seka",
         "EN": "Petit Seka",
         "JA": "ぷちセカ"
-    },
-    {
-        "annId": 24799,
-        "RO": "IDOLiSH7 Third Beat!",
-        "EN": "IDOLiSH7 Third Beat!",
-        "JA": "アイドリッシュセブン Third BEAT!"
     },
     {
         "annId": 24803,
@@ -46524,12 +44544,6 @@
         "JA": "私に天使が舞い降りた！プレシャス・フレンズ"
     },
     {
-        "annId": 24876,
-        "RO": "Kingdom",
-        "EN": "Kingdom",
-        "JA": "キングダム"
-    },
-    {
         "annId": 24877,
         "RO": "Bakugan: Evolutions",
         "EN": "Bakugan: Evolutions",
@@ -46570,12 +44584,6 @@
         "RO": "Ijiranaide, Nagatoro-san 2nd Attack",
         "EN": "Don't Toy with Me, Miss Nagatoro 2nd Attack",
         "JA": "イジらないで、長瀞さん 2nd Attack"
-    },
-    {
-        "annId": 24897,
-        "RO": "Love Live! Superstar!!",
-        "EN": "Love Live! Superstar!!",
-        "JA": "ラブライブ！スーパースター!!"
     },
     {
         "annId": 24898,
@@ -46662,12 +44670,6 @@
         "JA": "オンエアできない！"
     },
     {
-        "annId": 24932,
-        "RO": "Catman",
-        "EN": "Catman",
-        "JA": "Catman"
-    },
-    {
         "annId": 24933,
         "RO": "Catman Series II",
         "EN": "Catman Series II",
@@ -46698,28 +44700,10 @@
         "JA": "精霊幻想記 2"
     },
     {
-        "annId": 24950,
-        "RO": "Kyokou Suiri",
-        "EN": "In/Spectre",
-        "JA": "虚構推理"
-    },
-    {
-        "annId": 24951,
-        "RO": "Tonikaku Kawaii",
-        "EN": "TONIKAWA: Over The Moon For You",
-        "JA": "トニカクカワイイ"
-    },
-    {
         "annId": 24952,
         "RO": "Technoroid Overmind",
         "EN": "Technoroid Overmind",
         "JA": "テクノロイド オーバーマインド"
-    },
-    {
-        "annId": 24953,
-        "RO": "Bungo Stray Dogs",
-        "EN": "Bungo Stray Dogs",
-        "JA": "文豪ストレイドッグス"
     },
     {
         "annId": 24956,
@@ -46762,12 +44746,6 @@
         "RO": "Peter Grill to Kenja no Jikan: Super Extra",
         "EN": "Peter Grill and the Philosopher's Time: Super Extra",
         "JA": "ピーターグリルと賢者の時間 Super Extra"
-    },
-    {
-        "annId": 24968,
-        "RO": "Ninjala",
-        "EN": "Ninjala",
-        "JA": "ニンジャラ"
     },
     {
         "annId": 24971,
@@ -46866,12 +44844,6 @@
         "JA": "神クズ☆アイドル"
     },
     {
-        "annId": 24997,
-        "RO": "Akuma-kun",
-        "EN": "Akuma-kun",
-        "JA": "悪魔くん"
-    },
-    {
         "annId": 24998,
         "RO": "Uta no☆Prince-sama♪Maji Love ST☆RISH Tours: Tabi no Hajimari",
         "EN": "Uta no☆Prince-sama♪Maji Love ST☆RISH Tours: Tabi no Hajimari",
@@ -46902,12 +44874,6 @@
         "JA": "鎮西八郎為朝"
     },
     {
-        "annId": 25032,
-        "RO": "Golden Kamuy",
-        "EN": "Golden Kamuy",
-        "JA": "ゴールデンカムイ"
-    },
-    {
         "annId": 25038,
         "RO": "Bubble",
         "EN": "Bubble",
@@ -46924,12 +44890,6 @@
         "RO": "Yaneura no Rudger",
         "EN": "The Imaginary",
         "JA": "屋根裏のラジャー"
-    },
-    {
-        "annId": 25041,
-        "RO": "Megaton-kyuu Musashi",
-        "EN": "Megaton-kyuu Musashi",
-        "JA": "メガトン級ムサシ"
     },
     {
         "annId": 25042,
@@ -46992,12 +44952,6 @@
         "JA": "インセクトランド"
     },
     {
-        "annId": 25062,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
-    },
-    {
         "annId": 25064,
         "RO": "Yu-Gi-Oh! Go Rush!!",
         "EN": "Yu-Gi-Oh! Go Rush!!",
@@ -47058,18 +45012,6 @@
         "JA": "しまじろうとキラキラおうこくの おうじさま"
     },
     {
-        "annId": 25077,
-        "RO": "Komi-san wa, Comyushou desu.",
-        "EN": "Komi Can't Communicate",
-        "JA": "古見さんは、コミュ症です。"
-    },
-    {
-        "annId": 25078,
-        "RO": "Muv-Luv Alternative",
-        "EN": "Muv-Luv Alternative",
-        "JA": "マブラヴ オルタネイティヴ"
-    },
-    {
         "annId": 25086,
         "RO": "Tsundere Akuyaku Reijou Lieselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
         "EN": "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
@@ -47118,22 +45060,10 @@
         "JA": "The Missing 8"
     },
     {
-        "annId": 25102,
-        "RO": "Kyoukai Senki",
-        "EN": "AMAIM Warrior at the Borderline",
-        "JA": "境界戦機"
-    },
-    {
         "annId": 25104,
         "RO": "Lycoris Recoil",
         "EN": "Lycoris Recoil",
         "JA": "リコリス・リコイル"
-    },
-    {
-        "annId": 25106,
-        "RO": "Urusei Yatsura",
-        "EN": "Urusei Yatsura",
-        "JA": "うる星やつら"
     },
     {
         "annId": 25108,
@@ -47298,12 +45228,6 @@
         "JA": "エクストリームハーツ"
     },
     {
-        "annId": 25312,
-        "RO": "Zenryoku Usagi",
-        "EN": "Zenryoku Usagi",
-        "JA": "全力ウサギ"
-    },
-    {
         "annId": 25313,
         "RO": "Rainbow Finder: Tokimeki wa, Sugu Soba ni.",
         "EN": "Rainbow Finder: Tokimeki wa, Sugu Soba ni.",
@@ -47344,18 +45268,6 @@
         "RO": "Hiyokoi",
         "EN": "Hiyokoi",
         "JA": "ひよ恋"
-    },
-    {
-        "annId": 25343,
-        "RO": "Nagareboshi Lens",
-        "EN": "Nagareboshi Lens",
-        "JA": "流れ星レンズ"
-    },
-    {
-        "annId": 25346,
-        "RO": "Jujutsu Kaisen",
-        "EN": "Jujutsu Kaisen",
-        "JA": "呪術廻戦"
     },
     {
         "annId": 25353,
@@ -47610,24 +45522,6 @@
         "JA": "ググミちゃん"
     },
     {
-        "annId": 25466,
-        "RO": "Kengan Ashura",
-        "EN": "Kengan Ashura",
-        "JA": "ケンガンアシュラ"
-    },
-    {
-        "annId": 25467,
-        "RO": "Orient",
-        "EN": "Orient",
-        "JA": "オリエント"
-    },
-    {
-        "annId": 25468,
-        "RO": "Hanma Baki: Son of Ogre",
-        "EN": "Hanma Baki: Son of Ogre",
-        "JA": "範馬刃牙"
-    },
-    {
         "annId": 25469,
         "RO": "Suisei no Freyline: Prologue",
         "EN": "Suisei no Freyline: Prologue",
@@ -47764,12 +45658,6 @@
         "RO": "Isekai wa Smartphone to Tomo ni. 2",
         "EN": "In Another World With My Smartphone 2",
         "JA": "異世界はスマートフォンとともに。"
-    },
-    {
-        "annId": 25564,
-        "RO": "Gunma-chan",
-        "EN": "Gunma-chan",
-        "JA": "ぐんまちゃん"
     },
     {
         "annId": 25565,
@@ -48174,12 +46062,6 @@
         "JA": "デート・ア・ライブV"
     },
     {
-        "annId": 25920,
-        "RO": "Spy × Family",
-        "EN": "Spy × Family",
-        "JA": "TVアニメ『SPY×FAMILY』"
-    },
-    {
         "annId": 25928,
         "RO": "Genjitsu no Yohane: Sunshine in the Mirror",
         "EN": "Yohane The Parhelion: Sunshine in the Mirror",
@@ -48190,12 +46072,6 @@
         "RO": "Chi.: Chikyuu no Undou ni Tsuite",
         "EN": "Orb: On the Movements of the Earth",
         "JA": "チ。―地球の運動について―"
-    },
-    {
-        "annId": 25939,
-        "RO": "Birdie Wing: Golf Girls' Story",
-        "EN": "Birdie Wing: Golf Girls' Story",
-        "JA": "TVアニメ『BIRDIE WING -Golf Girls' Story-』公式サイト"
     },
     {
         "annId": 25948,
@@ -48624,12 +46500,6 @@
         "JA": "BOY's LOVE Nitro+CHiRAL"
     },
     {
-        "annId": 26324,
-        "RO": "Sora o Kakeru Shoujo",
-        "EN": "The Girl Who Leapt Through Space",
-        "JA": "宇宙をかける少女"
-    },
-    {
         "annId": 26325,
         "RO": "Arifureta Shokugyou de Sekai Saikyou Season 3",
         "EN": "Arifureta: From Commonplace to World's Strongest Season 3",
@@ -48654,12 +46524,6 @@
         "JA": "TVアニメ「SYNDUALITY Noir」公式サイト"
     },
     {
-        "annId": 26336,
-        "RO": "Mecha-Ude",
-        "EN": "Mecha-Ude: Mechanical Arms",
-        "JA": "メカウデ"
-    },
-    {
         "annId": 26338,
         "RO": "Delicious Party Precure: Watashi dake no Oko-sama Lunch",
         "EN": "Delicious Party Precure: Watashi dake no Oko-sama Lunch",
@@ -48670,12 +46534,6 @@
         "RO": "Kanojo mo Kanojo Season 2",
         "EN": "Girlfriend, Girlfriend Season 2",
         "JA": "カノジョも彼女"
-    },
-    {
-        "annId": 26340,
-        "RO": "Kanojo, Okarishimasu",
-        "EN": "Rent-a-Girlfriend",
-        "JA": "彼女、お借りします"
     },
     {
         "annId": 26353,
@@ -48744,12 +46602,6 @@
         "JA": "鬼武者"
     },
     {
-        "annId": 26386,
-        "RO": "Gokushufudou",
-        "EN": "The Way of the Househusband",
-        "JA": "極主夫道"
-    },
-    {
         "annId": 26393,
         "RO": "Majutsushi Orphen Haguretabi: Urban Rama-hen",
         "EN": "Sorcerous Stabber Orphen: Chaos in Urbanrama",
@@ -48780,18 +46632,6 @@
         "JA": "ダンジョンに出会いを求めるのは間違っているだろうか IV 深章 厄災篇"
     },
     {
-        "annId": 26401,
-        "RO": "Kingdom",
-        "EN": "Kingdom",
-        "JA": "キングダム"
-    },
-    {
-        "annId": 26402,
-        "RO": "KJ File",
-        "EN": "KJ File",
-        "JA": "KJファイル"
-    },
-    {
         "annId": 26406,
         "RO": "Shy",
         "EN": "Shy",
@@ -48814,12 +46654,6 @@
         "RO": "Hoshikuzu Telepath",
         "EN": "Stardust Telepath",
         "JA": "星屑テレパス"
-    },
-    {
-        "annId": 26429,
-        "RO": "Love Live! Superstar!!",
-        "EN": "Love Live! Superstar!!",
-        "JA": "ラブライブ！スーパースター!!"
     },
     {
         "annId": 26438,
@@ -48958,12 +46792,6 @@
         "RO": "Uma Musume: Pretty Derby - Road to the Top",
         "EN": "Uma Musume: Pretty Derby - Road to the Top",
         "JA": "ウマ娘 プリティーダービー Road to the Top"
-    },
-    {
-        "annId": 26553,
-        "RO": "Tensei shitara Slime Datta Ken",
-        "EN": "That Time I Got Reincarnated as a Slime",
-        "JA": "転生したらスライムだった件"
     },
     {
         "annId": 26554,
@@ -49152,12 +46980,6 @@
         "JA": "スペアイ"
     },
     {
-        "annId": 26737,
-        "RO": "Pocket Monsters",
-        "EN": "Pokémon",
-        "JA": "ポケットモンスター"
-    },
-    {
         "annId": 26738,
         "RO": "Pocket Monsters: Mezase Pokémon Master",
         "EN": "Pokémon: Mezase Pokémon Master",
@@ -49180,12 +47002,6 @@
         "RO": "Kamonohashi Ron no Kindan Suiri",
         "EN": "Ron Kamonohashi's Forbidden Deductions",
         "JA": "鴨乃橋ロンの禁断推理"
-    },
-    {
-        "annId": 26746,
-        "RO": "Spy × Family",
-        "EN": "Spy × Family",
-        "JA": "TVアニメ『SPY×FAMILY』"
     },
     {
         "annId": 26747,
@@ -49324,12 +47140,6 @@
         "RO": "Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen",
         "EN": "Bastard!! Heavy Metal Dark Fantasy: Hell's Requiem",
         "JA": "BASTARD!! －暗黒の破壊神－地獄の鎮魂歌編"
-    },
-    {
-        "annId": 26855,
-        "RO": "Kidou Senshi Gundam: Suisei no Majo",
-        "EN": "Mobile Suit Gundam: The Witch from Mercury",
-        "JA": "機動戦士ガンダム 水星の魔女"
     },
     {
         "annId": 26870,
@@ -49596,12 +47406,6 @@
         "JA": "時々ボソッとロシア語でデレる隣のアーリャさん"
     },
     {
-        "annId": 27459,
-        "RO": "Hikari no Ou",
-        "EN": "The Fire Hunter",
-        "JA": "火狩りの王"
-    },
-    {
         "annId": 27518,
         "RO": "Fuyu no Okurimono",
         "EN": "Fuyu no Okurimono",
@@ -49674,12 +47478,6 @@
         "JA": "キャプテン翼シーズン2 ジュニアユース編"
     },
     {
-        "annId": 27576,
-        "RO": "Urusei Yatsura",
-        "EN": "Urusei Yatsura",
-        "JA": "うる星やつら"
-    },
-    {
         "annId": 27580,
         "RO": "Sakuretsu! Amabie-hime. Season 2",
         "EN": "Sakuretsu! Amabie-hime. Season 2",
@@ -49702,12 +47500,6 @@
         "RO": "Yoru no Kurage wa Oyogenai",
         "EN": "Jellyfish Can't Swim in the Night",
         "JA": "夜のクラゲは泳げない"
-    },
-    {
-        "annId": 27603,
-        "RO": "Sugar Apple Fairy Tale",
-        "EN": "Sugar Apple Fairy Tale",
-        "JA": "シュガーアップル・フェアリーテイル"
     },
     {
         "annId": 27604,
@@ -49746,22 +47538,10 @@
         "JA": "先輩はおとこのこ"
     },
     {
-        "annId": 27619,
-        "RO": "Re:Zero kara Hajimeru Isekai Seikatsu",
-        "EN": "Re:Zero: Starting Life in Another World",
-        "JA": "Re：ゼロから始める異世界生活"
-    },
-    {
         "annId": 27620,
         "RO": "Hypnosis Mic: Division Rap Battle - Rhyme Anima+",
         "EN": "HYPNOSISMIC: Division Rap Battle - Rhyme Anima Plus",
         "JA": "ヒプノシスマイク-Division Rap Battle- Rhyme Anima+"
-    },
-    {
-        "annId": 27621,
-        "RO": "Boku no Hero Academia",
-        "EN": "My Hero Academia",
-        "JA": "僕のヒーローアカデミア"
     },
     {
         "annId": 27622,
@@ -49788,34 +47568,10 @@
         "JA": "青春ブタ野郎はランドセルガールの夢を見ない"
     },
     {
-        "annId": 27639,
-        "RO": "Hataraku Maou-sama!!",
-        "EN": "The Devil is a Part-Timer! Season 2",
-        "JA": "はたらく魔王さま！！"
-    },
-    {
-        "annId": 27640,
-        "RO": "High Card",
-        "EN": "High Card",
-        "JA": "TVアニメ「HIGH CARD」公式サイト"
-    },
-    {
         "annId": 27687,
         "RO": "Gundam Build Metaverse",
         "EN": "Gundam Build Metaverse",
         "JA": "ガンダムビルドメタバース"
-    },
-    {
-        "annId": 27688,
-        "RO": "Mononogatari",
-        "EN": "Malevolent Spirits: Mononogatari",
-        "JA": "もののがたり"
-    },
-    {
-        "annId": 27704,
-        "RO": "Bungo Stray Dogs",
-        "EN": "Bungo Stray Dogs",
-        "JA": "文豪ストレイドッグス"
     },
     {
         "annId": 27706,
@@ -49858,18 +47614,6 @@
         "RO": "Gekijouban Pole Princess!!",
         "EN": "Gekijouban Pole Princess!!",
         "JA": "劇場版 ポールプリンセス!!"
-    },
-    {
-        "annId": 27803,
-        "RO": "The iDOLM@STER Cinderella Girls U149",
-        "EN": "The iDOLM@STER Cinderella Girls U149",
-        "JA": "アイドルマスター シンデレラガールズ U149"
-    },
-    {
-        "annId": 27824,
-        "RO": "Spy Kyoushitsu",
-        "EN": "Spy Classroom",
-        "JA": "スパイ教室"
     },
     {
         "annId": 27861,
@@ -50058,18 +47802,6 @@
         "JA": "トニカクカワイイ 女子高編"
     },
     {
-        "annId": 28620,
-        "RO": "Dr. Stone: New World",
-        "EN": "Dr. Stone: New World",
-        "JA": "アニメ「Ｄｒ．ＳＴＯＮＥ(ドクターストーン)」公式HP"
-    },
-    {
-        "annId": 28648,
-        "RO": "Boku no Kokoro no Yabai Yatsu",
-        "EN": "The Dangers in My Heart",
-        "JA": "僕の心のヤバイやつ"
-    },
-    {
         "annId": 28695,
         "RO": "Kimetsu no Yaiba: Hashira Geiko-hen",
         "EN": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
@@ -50088,34 +47820,10 @@
         "JA": "シルバニアファミリー フレアのゴー・フォー・ドリーム！"
     },
     {
-        "annId": 28732,
-        "RO": "Mahoutsukai no Yome Season 2",
-        "EN": "The Ancient Magus' Bride Season 2",
-        "JA": "魔法使いの嫁 SEASON 2"
-    },
-    {
-        "annId": 28764,
-        "RO": "Megami no Café Terrace",
-        "EN": "The Café Terrace and Its Goddesses",
-        "JA": "女神のカフェテラス"
-    },
-    {
         "annId": 28789,
         "RO": "Hime-sama, \"Goumon\" no Jikan desu",
         "EN": "'Tis Time for \"Torture,\" Princess",
         "JA": "姫様“拷問”の時間です"
-    },
-    {
-        "annId": 28790,
-        "RO": "Kizuna no Allele",
-        "EN": "Kizuna no Allele",
-        "JA": "絆のアリル"
-    },
-    {
-        "annId": 28793,
-        "RO": "Dead Mount Death Play",
-        "EN": "Dead Mount Death Play",
-        "JA": "デッドマウント・デスプレイ"
     },
     {
         "annId": 28810,
@@ -50196,12 +47904,6 @@
         "JA": "シャドウバースF セブンシャドウズ編"
     },
     {
-        "annId": 28953,
-        "RO": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-        "EN": "Mushoku Tensei: Jobless Reincarnation Season 2",
-        "JA": "無職転生 II 〜異世界行ったら本気だす〜"
-    },
-    {
         "annId": 28978,
         "RO": "Bokura no Ameiro Protocol",
         "EN": "Protocol: Rain",
@@ -50272,12 +47974,6 @@
         "RO": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
         "EN": "Mushoku Tensei: Jobless Reincarnation Season 2",
         "JA": "無職転生Ⅱ ～異世界行ったら本気だす～ 守護術師フィッツ"
-    },
-    {
-        "annId": 29175,
-        "RO": "Chickip Dancers",
-        "EN": "Chickip Dancers",
-        "JA": "チキップダンサーズ"
     },
     {
         "annId": 29197,
@@ -50460,24 +48156,6 @@
         "JA": "月刊モー想科学"
     },
     {
-        "annId": 30076,
-        "RO": "Synduality: Noir",
-        "EN": "Synduality: Noir",
-        "JA": "TVアニメ「SYNDUALITY Noir」公式サイト"
-    },
-    {
-        "annId": 30082,
-        "RO": "Shinigami Bocchan to Kuro Maid",
-        "EN": "The Duke of Death and His Maid",
-        "JA": "死神坊ちゃんと黒メイド"
-    },
-    {
-        "annId": 30100,
-        "RO": "Maou Gakuin no Futekigousha II",
-        "EN": "The Misfit of Demon King Academy II",
-        "JA": "魔王学院の不適合者 II 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜"
-    },
-    {
         "annId": 30106,
         "RO": "Tadaima, Okaeri",
         "EN": "Tadaima, Okaeri",
@@ -50598,12 +48276,6 @@
         "JA": "ザ・ニュー・ゲート"
     },
     {
-        "annId": 30591,
-        "RO": "Houkago Shounen Hanako-kun",
-        "EN": "After-School Hanako-kun",
-        "JA": "放課後少年花子くん"
-    },
-    {
         "annId": 30593,
         "RO": "Modaete yo, Adam-kun",
         "EN": "Adam's Sweet Agony",
@@ -50614,12 +48286,6 @@
         "RO": "Sand Land: The Series",
         "EN": "Sand Land: The Series",
         "JA": "『SAND LAND: THE SERIES』公式サイト"
-    },
-    {
-        "annId": 30664,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
     },
     {
         "annId": 30684,
@@ -50766,18 +48432,6 @@
         "JA": "百姓貴族"
     },
     {
-        "annId": 31076,
-        "RO": "Shy",
-        "EN": "Shy",
-        "JA": "シャイ"
-    },
-    {
-        "annId": 31078,
-        "RO": "KamiErabi GOD.app",
-        "EN": "KamiErabi GOD.app",
-        "JA": "カミエラビ GOD.app"
-    },
-    {
         "annId": 31098,
         "RO": "Shadowverse Flame: Arc-hen",
         "EN": "Shadowverse Flame: Arc-hen",
@@ -50800,12 +48454,6 @@
         "RO": "Shinobanai! CryptoNinja Sakuya",
         "EN": "Shinobanai! CryptoNinja Sakuya",
         "JA": "忍ばない！クリプトニンジャ咲耶 弐ノ巻"
-    },
-    {
-        "annId": 31168,
-        "RO": "Kamonohashi Ron no Kindan Suiri",
-        "EN": "Ron Kamonohashi's Forbidden Deductions",
-        "JA": "鴨乃橋ロンの禁断推理"
     },
     {
         "annId": 31169,
@@ -51012,22 +48660,10 @@
         "JA": "好きでも嫌いなあまのじゃく"
     },
     {
-        "annId": 32541,
-        "RO": "Harimaware! Koinu",
-        "EN": "Harimaware! Koinu",
-        "JA": "貼りまわれ！こいぬ"
-    },
-    {
         "annId": 32542,
         "RO": "Baki Hanma vs. Kengan Ashura",
         "EN": "Baki Hanma vs. Kengan Ashura",
         "JA": "範馬刃牙VSケンガンアシュラ"
-    },
-    {
-        "annId": 32543,
-        "RO": "Nanatsu no Taizai: Mokushiroku no Yon-kishi",
-        "EN": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-        "JA": "七つの大罪 黙示録の四騎士"
     },
     {
         "annId": 32565,
@@ -51066,12 +48702,6 @@
         "JA": "カードファイト!! ヴァンガード Divinez"
     },
     {
-        "annId": 32680,
-        "RO": "YouTuNya",
-        "EN": "YouTuNya",
-        "JA": "ユーチューニャー"
-    },
-    {
         "annId": 32681,
         "RO": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan o Shitagaeru",
         "EN": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
@@ -51108,12 +48738,6 @@
         "JA": "らんま½ 熱闘歌合戦"
     },
     {
-        "annId": 32802,
-        "RO": "Yami Shibai",
-        "EN": "Theatre of Darkness: Yamishibai",
-        "JA": "闇芝居"
-    },
-    {
         "annId": 32815,
         "RO": "Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho",
         "EN": "Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho",
@@ -51124,12 +48748,6 @@
         "RO": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
         "EN": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
         "JA": "転生貴族、鑑定スキルで成り上がる"
-    },
-    {
-        "annId": 32852,
-        "RO": "Ooi! Tonbo",
-        "EN": "Tonbo",
-        "JA": "オーイ！とんぼ"
     },
     {
         "annId": 32911,
