@@ -10,7 +10,7 @@ The **Python** folder contains the essential scripts to prepare the Japanese nam
 
 To get started, you’ll need to download `libraryMasterList.json` from [AnimeMusicQuiz.com](https://animemusicquiz.com/) via the "Expand Library" feature.
 
-![How to find the libraryMasterList](https://i.imgur.com/e619y4Y.png)
+<img src="https://i.imgur.com/e619y4Y.png" alt="How to find the libraryMasterList" width="200">
 
 Once you have this file, follow these steps:
 
