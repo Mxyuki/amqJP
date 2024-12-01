@@ -15,11 +15,9 @@ for i in range(len(data)):
             
             if len(data[i]['RO']) < len(data[j]['RO']):
                 old_ja = data[j]['JA']
-                data[j]['RO'] = updated_ro
                 data[j]['JA'] = updated_ja
             else:
                 old_ja = data[i]['JA']
-                data[i]['RO'] = updated_ro
                 data[i]['JA'] = updated_ja
 
             updated_data.append({"oldJA": old_ja, "newJA": updated_ja})
