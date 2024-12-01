@@ -22,6 +22,8 @@ Once you have this file, follow these steps:
 
 - **clean.py**: This script cleans up `newDropDown.json`, removing duplicate entries. For example, shows like *My Hero Academia*, which has multiple seasons with identical names and Japanese titles, are streamlined to avoid redundancy.
 
+- **フィｘ.py**: This script fix some entry in `newDropDown.json`, so that anime that share same "JA" but not same "RO" can be distinguished in the dropdown.
+
 Feel free to take my scripts, update, or upgrade them as you wish. If you need help with anything related to the script, feel free to reach out to me on Discord: `.micookie`.
 
 ---
